@@ -17,7 +17,7 @@
 
     🧠 DAX Modelling & Relationships
 
-    🗂️ Data Sources
+    🗂️ Data Source
 ### [👤 About Me](#-about-me)
 ABOUT ME
 From selling electronics on the buzzing streets of Nigeria to managing mouthwatering empanadas in Panama —and now uncovering insights through data—I’ve had quite the journey!
