@@ -25,6 +25,7 @@ Power BI | Excel | SQL | Python | DAX | Data Storytelling
 •	Continuous learning and community impact
  Currently building projects across sales, food safety, and economic trends in Panama.
 Let’s connect if you're into data, food, strategy—or just curious how an empanada guy became a data guy!
+# [💼 Business Request](#-business-request)
 ### project overview
 We are Dajcom Limited, a leading company in the home appliances, food, and beverage industry. As we explore strategic opportunities to expand our operations into Panama, we are seeking your expertise to support us with a market analysis that will guide our investment and entry decisions.
 ### Project Objective
