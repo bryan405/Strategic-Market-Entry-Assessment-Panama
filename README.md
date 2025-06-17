@@ -6,8 +6,9 @@
 1. [👤 About Me](#-about-me)
 2. [💼 Business Request](#-business-request)
 3. [🧹 Data Cleaning & Transformation](#-data-cleaning--transformation)
-5. [📊🔗 Click here to view the presentation](./power-point-data-Presentation.pptx))
-6. [📈 Dashboard](#-dashboard)
+5. [📊🔗 Click here to view the presentation](./power-point-data-Presentation.pptx)
+6. [![Slide Preview](./slide-preview.png)](./powerpoint%20data%20presentation.pptx)
+7. [📈 Dashboard](#-dashboard)
 ### [👤 About Me](#-about-me)
 ABOUT ME
 From selling electronics on the buzzing streets of Nigeria to managing mouthwatering empanadas in Panama —and now uncovering insights through data—I’ve had quite the journey!
