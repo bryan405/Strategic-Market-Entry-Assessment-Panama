@@ -6,7 +6,7 @@
 1. [👤 About Me](#-about-me)
 2. [💼 Business Request](#-business-request)
 3. [🧹 Data Cleaning & Transformation](#-data-cleaning--transformation)
-5. [📊 presentatation](#-presentation)
+5. [📊🔗 Click here to view the presentation](./power-point-data-Presentation.pptx))
 6. [📈 Dashboard](#-dashboard)
 ### [👤 About Me](#-about-me)
 ABOUT ME
