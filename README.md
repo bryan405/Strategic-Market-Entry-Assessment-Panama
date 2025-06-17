@@ -20,6 +20,7 @@ Now, I'm helping businesses make smarter decisions through data. I turn messy da
 # [💼 Business Request](#-business-request)
 ### project overview
 We are Dajcom Limited, a leading company in the home appliances, food, and beverage industry. As we explore strategic opportunities to expand our operations into Panama, we are seeking your expertise to support us with a market analysis that will guide our investment and entry decisions.
+[Click here for previeiew](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/project%20overview.docx)
 ### Project Objective
 The goal of this project is to provide a clear and data-informed overview of Panama’s economic environment, focusing on the following key areas:
 1.	Overall Economic Growth
