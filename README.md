@@ -718,7 +718,8 @@ Table matrix
 # DAX MODELLING AND RELATIONSHIPS
 ![Captura de pantalla 2025-06-14 192436](https://github.com/user-attachments/assets/c54f0974-626e-4997-96b6-3b33a826990f)
 ![Captura de pantalla 2025-06-14 192750](https://github.com/user-attachments/assets/da027f69-a16e-4d1b-b0bd-67c606cda249)
-
+# PRESENTATION
+[IMAGE ALT](powerpoint data presentation.pptx)
 
 
 
