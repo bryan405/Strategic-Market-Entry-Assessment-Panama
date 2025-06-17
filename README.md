@@ -22,8 +22,8 @@ Now, I'm helping businesses make smarter decisions through data. I turn messy da
 We are Dajcom Limited, a leading company in the home appliances, food, and beverage industry. As we explore strategic opportunities to expand our operations into Panama, we are seeking your expertise to support us with a market analysis that will guide our investment and entry decisions.
 [Click here for previeiew](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/project%20overview.docx)
 
-   # [🧹 Data Cleaning & Transformation](#-data-cleaning--transformation)
-   ### Dataset no:1
+ # [🧹 Data Cleaning](#-data-cleaning) 
+Dataset no:1
 Data Cleaning & Documentation – FDI by Economic Activity (Panama, 2017–2023)
 Source: INEC Panama – Table 7
 Topic: Foreign Direct Investment (IED) by Economic Activity
@@ -46,6 +46,7 @@ Finally, I renamed the columns to:
 •	FDI Economic value
 The cleaned dataset now has 119 rows and 3 columns.
 Cleaned file name: FDI by Economic Activity (Panama, 2017–2023)
+[Click here for full detaile](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/Data%20cleaning%20documentation.docx)
 
 ### Data Source 2: 
 Foreign Direct Investment (FDI) by Country of Origin – Panama (2017–2023)
