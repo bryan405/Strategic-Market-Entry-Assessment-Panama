@@ -2,6 +2,12 @@
 
 # Strategic-Market-Entry-Assessment-Panama
 ## 📚 Table of Contents
+
+1. [👤 About Me](#-about-me)
+2. [💼 Business Request](#-business-request)
+3. [🧹 Data Cleaning & Transformation](#-data-cleaning--transformation)
+4. [📊 Data Analysis & Insights](#-data-analysis--insights)
+5. [📈 Dashboard](#-dashboard)
 ### [👤 About Me](#-about-me)
 ABOUT ME
 From selling electronics on the buzzing streets of Nigeria to managing mouthwatering empanadas in Panama —and now uncovering insights through data—I’ve had quite the journey!
