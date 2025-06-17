@@ -721,6 +721,8 @@ Table matrix
 # PRESENTATION
 [![Slide Preview](./slide-preview.png)](./powerpoint%20data%20presentation.pptx)
 🔗 [Click here to download the full PowerPoint presentation](./powerpoint%20data%20presentation.pptx)
+# DASHBOARD
+<iframe title="power bi panama growth analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 
 
