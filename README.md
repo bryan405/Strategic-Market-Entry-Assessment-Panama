@@ -1,7 +1,7 @@
 
 
 # Strategic-Market-Entry-Assessment-Panama
-## 📚 Table of Contents
+
 
 1.📚 Table of Contents
 
