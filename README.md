@@ -1,4 +1,4 @@
-![Captura de pantalla 2025-06-14 192436](https://github.com/user-attachments/assets/c54f0974-626e-4997-96b6-3b33a826990f)
+
 # Strategic-Market-Entry-Assessment-Panama
 ## 📚 Table of Contents
 ### [👤 About Me](#-about-me)
@@ -708,6 +708,8 @@ IF(
 )
 visual
 Table matrix
+# DAX MODELLING AND RELATIONSHIPS
+![Captura de pantalla 2025-06-14 192436](https://github.com/user-attachments/assets/c54f0974-626e-4997-96b6-3b33a826990f)
 
 
 
