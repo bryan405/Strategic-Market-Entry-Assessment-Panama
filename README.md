@@ -48,6 +48,16 @@ The cleaned dataset now has 119 rows and 3 columns.
 Cleaned file name: FDI by Economic Activity (Panama, 2017–2023)
 [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/Data%20cleaning%20documentation.docx)
 
+# [📊 Presentation](#-presentation)
+[![Slide Preview](./slide-preview.png)](./powerpoint%20data%20presentation.pptx)
+🔗 [Click here to download the full PowerPoint presentation](./powerpoint%20data%20presentation.pptx)
+
+# [📈 Dashboard](#-dashboard)
+[📈 View Dashboard](<iframe title="power bi panama growth analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
+
+)
+
+ [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)
 ## DAX CODES
 ### BridgeTableYear 
 Purpose: Creates a consistent year table from 1996 to 2025 to link with all time-based fact tables.
@@ -523,3 +533,5 @@ Table matrix
 [📈 View Dashboard](<iframe title="power bi panama growth analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 )
+
+
