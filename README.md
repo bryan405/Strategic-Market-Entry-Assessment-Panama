@@ -10,7 +10,7 @@
 4. [📊 Presentation & Recommendations](#-presentation--recommendations) 
 5. [📈 Dashboard](#-dashboard)  
 6. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
-7.. [🗂️ Data Sources](#-data-sources)  
+   [🗂️ Data Sources](#-data-sources)  
 
 # [👤 About Me](#-about-me)
 From selling electronics on the buzzing streets of Nigeria to managing mouthwatering empanadas in Panama —and now uncovering insights through data—I’ve had quite the journey!
