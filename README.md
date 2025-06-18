@@ -135,5 +135,16 @@ in
 ![Captura de pantalla 2025-06-14 192750](https://github.com/user-attachments/assets/2d18b783-f847-484e-83fb-5cf873532574)
 
  # [🗂️ Data Source](#-data-sources)
+ 1. Panama’s GDP by Economic Sector
+•	Source: INEC Panama – National Accounts by Sector :( CUENTAS ESPECIALES-
+Serie Homogénea 1996-2022, con año de referencia 2018	•	
+1996-2022)
+•	Purpose: Tracks the annual GDP contribution by each sector.
+•	Columns:
+o	Sector: Name of the economic sector
+o	Year: Reporting year
+o	GDP: GDP value (likely in million USD or Balboas)
+
+ [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/tables%20doccumentaion.docx)
 
 
