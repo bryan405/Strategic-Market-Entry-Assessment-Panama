@@ -130,6 +130,6 @@ in
     AddKey
     [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/DAX%20CODES.docx)
     
-    ![Captura de pantalla 2025-06-14 192436.png](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/Captura%20de%20pantalla%202025-06-14%20192750.png)
-
+   ![Captura de pantalla 2025-06-14 192750](https://github.com/user-attachments/assets/5cfb655d-c821-459d-9272-958b3e2851c6)
+![Captura de pantalla 2025-06-14 192436](https://github.com/user-attachments/assets/fdf6d0a0-2db7-4c3f-8609-d1426443182f)
 
