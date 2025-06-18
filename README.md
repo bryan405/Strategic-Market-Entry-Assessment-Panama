@@ -10,7 +10,7 @@
 4. [📊 Presentation](#-presentation)  
 5. [📈 Dashboard](#-dashboard)  
 6. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
-7. [🗂️ Data Sources](#-data-sources)  
+7. [🗂️ Data Source](#-data-sources)  
 
 # [👤 About Me](#-about-me)
 From selling electronics on the buzzing streets of Nigeria to managing mouthwatering empanadas in Panama —and now uncovering insights through data—I’ve had quite the journey!
@@ -46,7 +46,7 @@ Finally, I renamed the columns to:
 •	FDI Economic value
 The cleaned dataset now has 119 rows and 3 columns.
 Cleaned file name: FDI by Economic Activity (Panama, 2017–2023)
-[Click here for full detaile](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/Data%20cleaning%20documentation.docx)
+[Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/Data%20cleaning%20documentation.docx)
 
 ## DAX CODES
 ### BridgeTableYear 
