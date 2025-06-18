@@ -57,8 +57,8 @@ Cleaned file name: FDI by Economic Activity (Panama, 2017–2023)
 
 )
 
- [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)
-## DAX CODES
+ # [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)
+
 ### BridgeTableYear 
 Purpose: Creates a consistent year table from 1996 to 2025 to link with all time-based fact tables.
 •	Ensures uniform year values
