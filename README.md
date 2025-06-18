@@ -6,8 +6,8 @@
 
 1. [👤 About Me](#-about-me)  
 2. [💼 Business Request](#-business-request)  
-3. [🧹 Data Cleaning](#-data-cleaning)  
-4. [📊 Presentation](#-presentation)  
+3. [🧹 Data Cleaning](#-data-cleaning--Recomendation)  
+4. [📊 Presentation & Recomendations](#-presentation)  
 5. [📈 Dashboard](#-dashboard)  
 6. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
 7. [🗂️ Data Source](#-data-sources)  
