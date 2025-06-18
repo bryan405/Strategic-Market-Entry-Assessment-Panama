@@ -129,8 +129,9 @@ Code = let
 in
     AddKey
     [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/DAX%20CODES.docx)
+
     
-   ![Captura de pantalla 2025-06-14 192750](https://github.com/user-attachments/assets/5cfb655d-c821-459d-9272-958b3e2851c6)
 ![Captura de pantalla 2025-06-14 192436](https://github.com/user-attachments/assets/44995f4f-5053-48e9-a22b-0a0e1337d3f2)
+![Captura de pantalla 2025-06-14 192750](https://github.com/user-attachments/assets/2d18b783-f847-484e-83fb-5cf873532574)
 
 
