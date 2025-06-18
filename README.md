@@ -7,7 +7,7 @@
 1. [👤 About Me](#-about-me)  
 2. [💼 Business Request](#-business-request)  
 3. [🧹 Data Cleaning](#-data-cleaning--Recomendation)  
-4. [📊 Presentation & Recomendations](#-presentation)  
+4. [📊 Presentation & Recommendations](#presentation--recommendations) 
 5. [📈 Dashboard](#-dashboard)  
 6. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
 7.. [🗂️ Data Source](#-data-sources)  
@@ -48,7 +48,7 @@ The cleaned dataset now has 119 rows and 3 columns.
 Cleaned file name: FDI by Economic Activity (Panama, 2017–2023)
 [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/Data%20cleaning%20documentation.docx)
 
-# [📊 Presentation & Recomendations](#-presentation)  
+# [📊 Presentation & Recommendations](#presentation--recommendations)  
 ![Captura de pantalla 2025-06-17 213252](https://github.com/user-attachments/assets/c59016eb-0edc-42d8-aa64-87f1a2c34318)
 
 [![Slide Preview](./slide-preview.png)](./powerpoint%20data%20presentation.pptx)
