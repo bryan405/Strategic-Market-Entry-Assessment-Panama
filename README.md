@@ -49,6 +49,8 @@ Cleaned file name: FDI by Economic Activity (Panama, 2017–2023)
 [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/Data%20cleaning%20documentation.docx)
 
 # [📊 Presentation](#-presentation)
+![Captura de pantalla 2025-06-17 213252](https://github.com/user-attachments/assets/c59016eb-0edc-42d8-aa64-87f1a2c34318)
+
 [![Slide Preview](./slide-preview.png)](./powerpoint%20data%20presentation.pptx)
 🔗 [Click here to download the full PowerPoint presentation](./powerpoint%20data%20presentation.pptx)
 
