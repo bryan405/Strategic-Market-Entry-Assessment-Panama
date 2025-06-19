@@ -1,6 +1,7 @@
 
 
 # Strategic-Market-Entry-Assessment-Panama
+### A data-driven project designed to evaluate Panama’s economic landscape and identify key sectors, regions, and investment trends for successful business entry. Using tools like Power BI, Excel, and DAX, the analysis focuses on GDP performance, foreign direct investment, and sectoral growth to guide informed market entry decisions
 
 ## 📚 Table of Contents
 
