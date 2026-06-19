@@ -53,30 +53,64 @@ We are looking for a well-structured report that includes data visualizations (s
 ________________________________________
 
  # [🧹 Data Cleaning](#-data-cleaning) 
-Dataset no:1
-Data Cleaning & Documentation – FDI by Economic Activity (Panama, 2017–2023)
-Source: INEC Panama – Table 7
-Topic: Foreign Direct Investment (IED) by Economic Activity
-Unit: Thousands of Balboas (B/.)
-Coverage: Annual data, 2017 to 2023 (as of December 31 each year)
-Format: Excel
-Primary Key: Combination of Economic Sector and Year
-________________________________________
-🔍 Raw Data Overview
-The dataset includes FDI values by economic sector along with sector participation and year-over-year variation for 2023.
+## Panama Macroeconomic Data Cleaning Documentation
+A Multi‑Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017–2023)
+Tools:  Power BI, SQL, Excel
+Sources: INEC Panama (FDI, GDP, GVA, Provincial GDP, Quarterly GDP)
+## Project Overview
+This project consolidates and cleans multiple macroeconomic datasets from INEC Panama to build a unified analytical foundation for studying.
+Foreign Direct Investment (FDI)
+Gross Value Added (GVA)
+Annual GDP
+Provincial GDP
+Quarterly GDP
+Sector‑level economic performance
 
-Data Cleaning Summary – FDI by Economic Activity (Panama)
-To prepare the dataset for analysis, I first removed irrelevant rows (1–9, 11, 30–34) that contained notes or were entirely empty. I promoted the correct header row, which included the years 2017–2023, to use as column names.
-I renamed the first column to "Economic Sector" for clarity, then filtered out rows containing non-data text like explanatory notes and footnotes (e.g., rows 19–21). I also excluded data from 2020 to 2023 that appeared inconsistent or labeled as provisional.
-Next, I removed the last two columns—participation percentage and year-over-year variation—since they weren't needed for our core analysis and could be recalculated later if needed.
-I checked for and confirmed there were no duplicate rows. Then I used fill down to complete any missing sector names, corrected the data types (ensuring years were numeric and FDI values were in number format), and unpivoted the dataset from wide to long format for easier analysis.
-Finally, I renamed the columns to:
-•	Economic Sector
-•	Year
-•	FDI Economic value
-The cleaned dataset now has 119 rows and 3 columns.
-Cleaned file name: FDI by Economic Activity (Panama, 2017–2023)
-[Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/Data%20cleaning%20documentation.docx)
+## Standardized Data Cleaning Framework
+All datasets were processed using the same senior‑level ETL methodology:
+
+### Ingestion
+Imported Excel/CSV files using Python and Power BI.
+
+Inspected raw structure to identify metadata, merged cells, footnotes, and non‑data rows.
+
+### Structural Cleaning
+Removed metadata rows, titles, footnotes, and totals.
+Example from the document:
+
+“Removed irrelevant rows (1–9, 11, 30–34) that contained notes or were entirely empty.”
+
+Promoted the correct header row.
+
+Renamed key identifier columns (e.g., Descripción → Sector, País de origen → Country).
+
+### Standardization
+Trimmed whitespace, corrected spelling inconsistencies, and harmonized sector/country names.
+
+Ensured consistent naming across datasets (e.g., “Sector”, “Year”, “GDP_Value”).
+
+### Reshaping
+Unpivoted all year columns into long format to support time‑series analysis.
+Example from the document:
+
+“Unpivoted the dataset from wide to long format for easier analysis.”
+
+### Data Type Validation
+Converted Year → integer
+
+Converted GDP/FDI/GVA values → float
+
+Cleaned thousands separators and decimal inconsistencies.
+
+### Deduplication & Integrity Checks
+Verified unique primary keys (Sector‑Year, Country‑Year, Province‑Year).
+
+Removed totals, subtotals, and alias rows.
+
+### Export
+Saved each cleaned dataset as a separate CSV file with standardized naming conventions.
+
+
 
 # [📊 Presentation & Recommendations](#presentation--recommendations)  
 
