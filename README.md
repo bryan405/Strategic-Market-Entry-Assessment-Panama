@@ -6,12 +6,13 @@
 ## 📚 Table of Contents
 
 1. [👤 About Me](#-about-me)  
-2. [💼 Business Request](#-business-request)  
-3. [🧹 Data Cleaning](#-data-cleaning--Recomendation)  
-4. [📊 Presentation & Recommendations](#-presentation--recommendations) 
-5. [📈 Dashboard](#-dashboard)  
-6. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
-7. [🗂️ Data Sources](#-data-sources)  
+2. [💼 Business Request](#-business-request)
+3. [🕴️Executive Summary](#-Executive--Summary)  
+4. [🧹 Data Cleaning](#-data-cleaning--Recomendation)  
+5. [📊 Presentation & Recommendations](#-presentation--recommendations) 
+6. [📈 Dashboard](#-dashboard)  
+7. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
+8. [🗂️ Data Sources](#-data-sources)  
 
 # [👤 About Me](#-about-me)
 Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
