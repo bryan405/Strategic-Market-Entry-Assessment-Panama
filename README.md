@@ -110,6 +110,141 @@ Removed totals, subtotals, and alias rows.
 ### Export
 Saved each cleaned dataset as a separate CSV file with standardized naming conventions.
 
+#Dataset‑Specific Cleaning Documentation
+### FDI by Economic Activity (2017–2023)
+File: FDI_Economic_Activity_2017_2023.csv  
+Rows: 119
+Columns: Economic Sector, Year, FDI_Value
+
+Key Cleaning Actions
+Removed metadata rows and explanatory notes.
+
+Renamed first column to Economic Sector.
+
+Excluded provisional/inconsistent values (2020–2023).
+
+Removed participation % and YoY variation columns.
+
+Filled down merged sector names.
+
+Unpivoted 2017–2023 columns.
+
+Document citation:
+
+"I removed the last two columns—participation percentage and year-over-year variation—since they weren't needed…”
+
+### FDI by Country of Origin (Top 10, 2017–2023)
+File: FDI_Country_Origin_2017_2023.csv  
+Rows: 70
+Columns: Country, Year, FDI_Value
+
+Key Cleaning Actions
+Removed metadata rows and empty rows.
+
+Dropped participation % and variation % columns.
+
+Removed national totals and “Otros países”.
+
+Standardized country names.
+
+Unpivoted year columns.
+
+Document citation:
+
+“Excluded 'Otros países': Limited scope to only the top 10 countries…”
+
+### Gross Value Added (GVA) by Sector (2018–2022)
+File: GVA_Sector_2018_2022.csv  
+Rows: 95
+Columns: Sector, Year, GVA_Value
+
+Key Cleaning Actions
+Removed metadata and non‑data rows.
+
+Promoted correct headers.
+
+Standardized sector names.
+
+Removed subtotals and totals.
+
+Unpivoted year columns.
+
+Document citation:
+
+“Removed subtotal and total rows… retaining only granular, sector-level data points.”
+
+### GDP by Economic Activity (1996–2022)
+File: GDP_Economic_Activity_1996_2022.csv  
+Rows: 433
+Columns: Sector, Year, GDP_Value
+
+Key Cleaning Actions
+Removed metadata and footnotes.
+
+Dropped non‑data rows at top and bottom.
+
+Standardized sector descriptions.
+
+Unpivoted 1996–2022 columns.
+
+Validated numeric formats.
+
+Document citation:
+
+“Removed Column 1 containing metadata and notes irrelevant to analysis…”
+
+### Annual GDP (2018–2023)
+File: GDP_Annual_2018_2023.csv  
+Rows: 139
+Columns: Sector, Year, GDP_Value
+
+Key Cleaning Actions
+Removed titles, footnotes, and totals.
+
+Standardized sector names.
+
+Unpivoted year columns.
+
+Cleaned numeric formatting.
+
+Document citation:
+
+“Removed aggregated total rows and checked for duplicate sector-year entries.”
+
+### Provincial GDP (2018–2023)
+File: GDP_Provincial_2018_2023.csv  
+Rows: 60
+Columns: Province, Year, P_GDP_Value
+
+Key Cleaning Actions
+Removed national-level categories.
+
+Standardized province names.
+
+Unpivoted year columns.
+
+Removed duplicates and totals.
+
+Document citation:
+
+“Filtered sector rows… to focus only on GDP by province.”
+
+### Quarterly GDP (2018–2023)
+File: GDP_Quarterly_2018_2023.csv  
+Rows: 486
+Columns: Sector, Quarter, Q_GDP_Value
+
+Key Cleaning Actions
+Removed metadata and footnotes.
+
+Removed national totals (e.g., Valor Agregado Bruto).
+
+Standardized sector names.
+
+Unpivoted quarter columns.
+
+Cleaned numeric formatting.
+
 
 
 # [📊 Presentation & Recommendations](#presentation--recommendations)  
