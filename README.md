@@ -110,7 +110,7 @@ Removed totals, subtotals, and alias rows.
 ### Export
 Saved each cleaned dataset as a separate CSV file with standardized naming conventions.
 
-#Dataset‑Specific Cleaning Documentation
+# Dataset‑Specific Cleaning Documentation
 ### FDI by Economic Activity (2017–2023)
 File: FDI_Economic_Activity_2017_2023.csv  
 Rows: 119
