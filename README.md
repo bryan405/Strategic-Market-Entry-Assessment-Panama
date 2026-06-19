@@ -14,11 +14,13 @@
 7. [🗂️ Data Sources](#-data-sources)  
 
 # [👤 About Me](#-about-me)
-From selling electronics on the buzzing streets of Nigeria to managing mouthwatering empanadas in Panama —and now uncovering insights through data—I’ve had quite the journey!
-I’m a versatile professional with over 7 years of experience in sales, hands-on leadership in food production and marketing, and an academic background in Biology, Biotechnology (B.Sc.), and Food Safety (M.Sc.). My passion for problem-solving, systems thinking, and business strategy naturally led me to the world of data analytics.
-Now, I'm helping businesses make smarter decisions through data. I turn messy datasets into actionable insights, build dashboards that actually tell stories, and use analytics to solve real-world problems—especially in sales, marketing, and food safety domains.
-[Click here for preview](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/commit/1301b49a63a68abb9001eee94e44119395e76e20)
-# [💼 Business Request](#-business-request)
+Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
+
+I am currently developing inventory, logistics, and supply chain analytics projects to strengthen my skills in business intelligence and process optimization.
+
+Tools: SQL, Power BI, Excel, Python.
+
+# [Business Request](#-business-request)
 ### project overview
 We are Dajcom Limited, a leading company in the home appliances, food, and beverage industry. As we explore strategic opportunities to expand our operations into Panama, we are seeking your expertise to support us with a market analysis that will guide our investment and entry decisions.
 [Click here for previeiew](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/project%20overview.docx)
