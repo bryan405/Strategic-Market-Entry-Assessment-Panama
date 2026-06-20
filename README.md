@@ -347,7 +347,6 @@ Quarterly GDP moves up and down, but the average stays around $17K, which signal
 **Insight:**  
 Panama is not just recovering - it is growing with consistency, creating a safe window for Dajcom to enter within the next 1–3 years.
 
-Dashboard page used: Annual & Quarterly GDP
 
 ## Sector Performance: Where Panama’s Growth Is Coming From
 The sector dashboards highlight the engines of the economy.
@@ -380,6 +379,9 @@ These sectors match Dajcom’s product lines and operating model.
 
 **Insight:**  
 Panama’s sector mix aligns well with Dajcom’s strengths, especially in retail, logistics, and consumer goods.
+
+![Sectoral Performance](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/SECTORAL%20PERFORMANCE.png)
+![Key sector](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/KEY%20SECTOR.png)
 
 ## Foreign Direct Investment: Strong Confidence From Global Companies
 FDI is one of the clearest signals in the dashboard.
@@ -428,8 +430,6 @@ Dajcom should anchor operations in Panamá city and Panamá Oeste, use Colón fo
 
 ![Provincial](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/PROVINCE%20AND%20TOP%20COUNTRIES.png)
 
-![Sectoral Performance](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/SECTORAL%20PERFORMANCE.png)
-![Key sector](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/KEY%20SECTOR.png)
 
 
  # [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)
