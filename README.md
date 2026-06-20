@@ -111,7 +111,8 @@ A phased entry - starting with distribution, followed by a regional hub, and lat
 We are Dajcom Limited, a leading company in the home appliances, food, and beverage industry. As we explore strategic opportunities to expand our operations into Panama, we are seeking your expertise to support us with a market analysis that will guide our investment and entry decisions.
 
 **Project Objective**
-The goal of this project is to provide a clear and data-informed overview of Panama’s economic environment, focusing on the following key areas:
+The goal of this project is to provide a clear and data-informed overview of Panama’s economic environment, focusing on the following key areas
+
 **Overall Economic Growth**
 - What we need: Insights into Panama’s economic performance based on annual and quarterly GDP trends.
 - This will help us understand the stability and future potential of the market, so we can determine the right time and scale for entering Panama.
