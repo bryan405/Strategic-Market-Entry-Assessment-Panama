@@ -25,11 +25,11 @@ Economic Growth: A Stable and Rising Market
 Panama’s GDP story is one of resilience and forward movement.
 The economy dropped sharply in 2020, but the rebound was fast and strong:
 
--** +18% in 2021
+-**+18% in 2021
 
--** +12% in 2022
+-**+12% in 2022
 
--** +8% in 2023
+-**+8% in 2023
 
 Annual GDP climbed from $47.5K to $67.9K in three years.
 Quarterly GDP shows normal ups and downs, but the base remains stable at around $17K.
