@@ -64,7 +64,7 @@ FDI is one of Panama’s strongest signals.
 
 - Growth stabilizing around 35–36%
 
-This shows that global companies are not only entering Panama — they are expanding their investments.
+This shows that global companies are not only entering Panama - they are expanding their investments.
 
   
 Panama offers a business‑friendly environment with good infrastructure and clear rules.
@@ -73,13 +73,13 @@ This reduces risk for Dajcom and supports long‑term planning.
 Regional Insights: Where Economic Activity Is Concentrated
 Economic activity is not spread evenly. It is concentrated in a few high‑value regions:
 
-- Panamá — economic center, retail hub
+- Panamá - economic center, retail hub
 
-- Colón — logistics and Free Trade Zone
+- Colón - logistics and Free Trade Zone
 
-- Panamá Oeste — fast‑growing industrial and residential area
+- Panamá Oeste - fast‑growing industrial and residential area
 
-- Chiriquí — rising commercial and agricultural region
+- Chiriquí - rising commercial and agricultural region
 
 Partner‑country data shows strong ties with the US, Colombia, Canada, and Europe, reinforcing Panama’s global connectivity.
 
@@ -104,7 +104,7 @@ This creates a stable environment for long‑term investment.
 Overall Conclusion
 Panama is a high‑potential market with strong economic fundamentals, expanding sectors, rising foreign investment, and world‑class logistics. The data supports a “Go” decision for Dajcom.
 
-A phased entry — starting with distribution, followed by a regional hub, and later exploring local manufacturing — gives Dajcom a safe and scalable path into the market.
+A phased entry - starting with distribution, followed by a regional hub, and later exploring local manufacturing gives Dajcom a safe and scalable path into the market.
 
 # [Business Request](#-business-request)
 ### project overview
