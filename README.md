@@ -97,7 +97,7 @@ FDI CAGR (2017–2023): 500%
 
 Total GVA (2018–2022): $324K
 
-What this means:  
+**What this means:**  
 Panama’s growth is broad‑based, not dependent on one sector.
 This creates a stable environment for long‑term investment.
 
@@ -110,17 +110,17 @@ A phased entry — starting with distribution, followed by a regional hub, and l
 ### project overview
 We are Dajcom Limited, a leading company in the home appliances, food, and beverage industry. As we explore strategic opportunities to expand our operations into Panama, we are seeking your expertise to support us with a market analysis that will guide our investment and entry decisions.
 
-Project Objective
+**Project Objective**
 The goal of this project is to provide a clear and data-informed overview of Panama’s economic environment, focusing on the following key areas:
-1.	Overall Economic Growth
-o	What we need: Insights into Panama’s economic performance based on annual and quarterly GDP trends.
-o	 This will help us understand the stability and future potential of the market, so we can determine the right time and scale for entering Panama.
-2.	Sector Performance
-o	What we need: Analysis of which industries contribute most to Panama’s economy, especially those growing steadily. We are particularly interested in sectors related to food, beverages, manufacturing, logistics, and retail.
-o	Why it matters: This will help us identify which sectors to focus on or partner with for sourcing, production, or distribution.
-3.	Foreign Direct Investment (FDI)
-o	What we need: An overview of FDI trends by sector, to see where international companies are choosing to invest.
-o	Why it matters: Sectors that attract FDI usually have favorable policies, infrastructure, and growth potential. This will give us confidence about where to align our investment strategy.
+**Overall Economic Growth**
+- *What we need: Insights into Panama’s economic performance based on annual and quarterly GDP trends.
+- *This will help us understand the stability and future potential of the market, so we can determine the right time and scale for entering Panama.
+  **Sector Performance**
+- *What we need: Analysis of which industries contribute most to Panama’s economy, especially those growing steadily. We are particularly interested in sectors related to food, beverages, manufacturing, logistics, and retail.
+- *Why it matters: This will help us identify which sectors to focus on or partner with for sourcing, production, or distribution.
+  **Foreign Direct Investment (FDI)**
+- *What we need: An overview of FDI trends by sector, to see where international companies are choosing to invest.
+- *Why it matters: Sectors that attract FDI usually have favorable policies, infrastructure, and growth potential. This will give us confidence about where to align our investment strategy.
 4.	Key Economic Indicators
 o	What we need: A summary of key figures, such as:
 	GDP growth (national and provincial)
