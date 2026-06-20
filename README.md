@@ -20,7 +20,7 @@
 Dajcom is evaluating Panama as a strategic growth market.panama Market Entry Analysis shows a resilient, service‑driven economy with strong logistics, construction, commerce, and Foreign direct investment (FDI) momentum, especially around the Panama City,Colón,Panamá Oeste corridor. This supports a phased entry focused on food & beverage, home appliances distribution, and logistics‑enabled retail partnerships.
 
 The dashboards we provided help you see this story clearly.
-
+[image alt](anual GDP.png)
 # [👤 About Me](#-about-me)
 Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
 
