@@ -382,6 +382,7 @@ These sectors match Dajcom’s product lines and operating model.
 Panama’s sector mix aligns well with Dajcom’s strengths, especially in retail, logistics, and consumer goods.
 
 ![Sectoral Performance](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/SECTORAL%20PERFORMANCE.png)
+![Key sector](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/KEY%20SECTOR.png)
 
 
  # [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)
