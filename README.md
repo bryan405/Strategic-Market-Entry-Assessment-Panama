@@ -336,17 +336,57 @@ Columns: Sector, Quarter, Q_GDP_Value
 
 
 
-# [📊 Presentation & Recommendations](#presentation--recommendations)  
+# [Key Finding & Insights](#Key-Findings-&--Insights)
 
-![Captura de pantalla 2025-06-17 213252](https://github.com/user-attachments/assets/c59016eb-0edc-42d8-aa64-87f1a2c34318)
+## Panama’s Economic Growth: A Market Moving in the Right Direction
+The dashboard shows a clear recovery and steady expansion.
+After the sharp drop in 2020, annual GDP climbed from $47.5K to $67.9K by 2023. Growth moved from –20% to +18%, +12%, and +8% in three consecutive years.
 
-[![Slide Preview](./slide-preview.png)](./powerpoint%20data%20presentation.pptx)
-🔗 [Click here to download the full PowerPoint presentation](./powerpoint%20data%20presentation.pptx)
+Quarterly GDP moves up and down, but the average stays around $17K, which signals a stable base of economic activity.
 
-# [📈 Dashboard](#-dashboard)
-[📈 View Dashboard](<iframe title="power bi panama growth analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
+**Insight:**  
+Panama is not just recovering - it is growing with consistency, creating a safe window for Dajcom to enter within the next 1–3 years.
 
-)
+Dashboard page used: Annual & Quarterly GDP
+
+## Sector Performance: Where Panama’s Growth Is Coming From
+The sector dashboards highlight the engines of the economy.
+Between 2018–2022, the strongest contributors are:
+
+Commerce
+
+Transport & logistics
+
+Construction
+
+Utilities
+
+Service activities
+
+Long‑term trends (1996–2022) show fast growth in:
+
+Exploitation (16% CAGR)
+
+Construction (11% CAGR)
+
+Utilities (9% CAGR)
+
+Transport (7% CAGR)
+
+These sectors match Dajcom’s product lines and operating model.
+- Construction growth supports home appliance demand.
+- Commerce growth supports food and beverage distribution.
+- Transport growth supports logistics and warehousing.
+
+**Insight:**  
+Panama’s sector mix aligns well with Dajcom’s strengths, especially in retail, logistics, and consumer goods.
+
+Dashboard pages used:
+
+Key Sector Contributing to GDP
+
+Sectoral Performance Trends
+
 
  # [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)
 
