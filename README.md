@@ -5,12 +5,12 @@
 
 ## 📚 Table of Contents
 
-1. [👤 About Me](#-about-me)  
-2. [💼 Business Request](#-business-request)
-3. [🕴️Executive Summary](#-Executive--Summary)  
-4. [🧹 Data Cleaning](#-data-cleaning--Recomendation)  
-5. [📊 Presentation & Recommendations](#-presentation--recommendations) 
-6. [📈 Dashboard](#-dashboard)  
+1. [About Me](#-about-me)  
+2. [Business Request](#-business-request)
+3. [Presentation](#Presentation)  
+4. [Data Cleaning](#-data-cleaning)  
+5. [Recommendations](#recommendations) 
+6. [Dashboard](#-dashboard)  
 7. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
 8. [🗂️ Data Sources](#-data-sources)  
 
