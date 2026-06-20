@@ -31,10 +31,10 @@ The economy dropped sharply in 2020, but the rebound was fast and strong:
 Annual GDP climbed from $47.5K to $67.9K in three years.
 Quarterly GDP shows normal ups and downs, but the base remains stable at around $17K.
 
-What this means:  
+**What this means:**  
 Panama is not a risky market. It is a growing, predictable environment where Dajcom can enter with confidence.
 
-2. Sector Performance: Clear Engines of Growth
+**Sector Performance: Clear Engines of Growth**
 The sector dashboards show that Panama’s economy is driven by a few strong pillars:
 
 Commerce
@@ -49,11 +49,11 @@ Service activities
 
 Long‑term growth is also strong, with sectors like exploitation (16% CAGR) and construction (11% CAGR) leading the way.
 
-What this means:  
-These sectors match Dajcom’s strengths.
-Growing construction supports appliance demand.
-Growing commerce supports food and beverage distribution.
-Strong logistics supports regional operations.
+**What this means:**  
+- These sectors match Dajcom’s strengths.
+- Growing construction supports appliance demand.
+- Growing commerce supports food and beverage distribution.
+- Strong logistics supports regional operations.
 
 3. Foreign Direct Investment: Strong Global Confidence
 FDI is one of Panama’s strongest signals.
