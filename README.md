@@ -430,6 +430,9 @@ Dajcom should anchor operations in Panamá city and Panamá Oeste, use Colón fo
 
 ![Provincial](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/PROVINCE%20AND%20TOP%20COUNTRIES.png)
 
+# [Dashboard](#-dashboard)
+![Click here](<iframe title="power bi panama growth analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
+
 
 
  # [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)
@@ -504,6 +507,8 @@ Code = let
 in
     AddKey
     [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/DAX%20CODES.docx)
+
+	
 
     
 ![Captura de pantalla 2025-06-14 192436](https://github.com/user-attachments/assets/44995f4f-5053-48e9-a22b-0a0e1337d3f2)
