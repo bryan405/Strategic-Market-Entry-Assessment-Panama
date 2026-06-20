@@ -219,7 +219,7 @@ Columns: Economic Sector, Year, FDI_Value
 
  **Document citation:**
 
-"I removed the last two columns—participation percentage and year-over-year variation—since they weren't needed…”
+I removed the last two columns—participation percentage and year-over-year variation—since they weren't needed.
 
 ### FDI by Country of Origin (Top 10, 2017–2023)
 File: FDI_Country_Origin_2017_2023.csv  
@@ -380,6 +380,51 @@ These sectors match Dajcom’s product lines and operating model.
 
 **Insight:**  
 Panama’s sector mix aligns well with Dajcom’s strengths, especially in retail, logistics, and consumer goods.
+
+## Foreign Direct Investment: Strong Confidence From Global Companies
+FDI is one of the clearest signals in the dashboard.
+
+$403M total FDI (2017–2023)
+
+~500% CAGR
+
+Growth stabilizing around 35–36%
+
+This shows that global companies are not only entering Panama — they are expanding their investments across logistics, construction, and services.
+
+**Insight:**  
+High FDI confirms that Panama offers a business‑friendly environment, strong infrastructure, and predictable rules.
+This reduces risk for Dajcom and supports long‑term planning.
+
+
+
+## Regional & Provincial Insights: Where Economic Activity Is Concentrated
+The provincial dashboard shows that most economic activity is concentrated in four regions:
+
+Panamá - main economic center
+
+Colón - logistics and Free Trade Zone
+
+Panamá Oeste - fast‑growing industrial and residential area
+
+Chiriquí - rising commercial and agricultural hub
+
+Together, these regions account for almost 90% of national GDP.
+
+Partner‑country data shows strong ties with:
+
+- United States
+
+- Colombia
+
+- Canada
+
+- Europe
+
+This reinforces Panama’s position as a global trade hub.
+
+**Insight:**  
+Dajcom should anchor operations in Panamá city and Panamá Oeste, use Colón for import/export, and consider Chiriquí for future manufacturing or regional distribution.
 
 ![Sectoral Performance](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/SECTORAL%20PERFORMANCE.png)
 ![Key sector](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/KEY%20SECTOR.png)
