@@ -114,28 +114,28 @@ We are Dajcom Limited, a leading company in the home appliances, food, and bever
 **Project Objective**
 The goal of this project is to provide a clear and data-informed overview of Panama’s economic environment, focusing on the following key areas
 
-**Overall Economic Growth**
+### Overall Economic Growth
 - What we need: Insights into Panama’s economic performance based on annual and quarterly GDP trends.
 - This will help us understand the stability and future potential of the market, so we can determine the right time and scale for entering Panama.
-  **Sector Performance**
+  ### Sector Performance
 - What we need: Analysis of which industries contribute most to Panama’s economy, especially those growing steadily. We are particularly interested in sectors related to food, beverages, manufacturing, logistics, and retail.
 - Why it matters: This will help us identify which sectors to focus on or partner with for sourcing, production, or distribution.
   **Foreign Direct Investment (FDI)**
 - What we need: An overview of FDI trends by sector, to see where international companies are choosing to invest.
 - Why it matters: Sectors that attract FDI usually have favorable policies, infrastructure, and growth potential. This will give us confidence about where to align our investment strategy.
-4.	Key Economic Indicators
-o	What we need: A summary of key figures, such as:
-	GDP growth (national and provincial)
-	Sectoral contribution to GDP
-	Compound Annual Growth Rate (CAGR)
-	FDI growth by sector
-o	Why it matters: These figures will help us compare opportunities and select the best sectors and regions for investment.
-5.	Regional and Provincial Insights
-o	What we need: Analysis of economic GDP activity at the provincial level, highlighting infrastructure, market access, labor availability, and urbanization.
-o	Why it matters: This will help us choose the right locations for operations such as manufacturing, warehousing, or distribution.
-6.	Strategic Recommendations
-o	What we need: A clear summary of opportunities and risks, along with suggested sectors and regions to prioritize.
-o	Why it matters: Your guidance will help ensure our market entry strategy is focused, data-backed, and aligned with Panama’s economic landscape.
+  ### Key Economic Indicators
+	What we need: A summary of key figures, such as:
+- GDP growth (national and provincial)
+- Sectoral contribution to GDP
+-	Compound Annual Growth Rate (CAGR)
+-	FDI growth by sector
+	Why it matters: These figures will help us compare opportunities and select the best sectors and regions for investment.
+### Regional and Provincial Insights
+- What we need: Analysis of economic GDP activity at the provincial level, highlighting infrastructure, market access, labor availability, and urbanization.
+-	Why it matters: This will help us choose the right locations for operations such as manufacturing, warehousing, or distribution.
+  ###	Strategic Recommendations
+-	What we need: A clear summary of opportunities and risks, along with suggested sectors and regions to prioritize.
+-	Why it matters: Your guidance will help ensure our market entry strategy is focused, data-backed, and aligned with Panama’s economic landscape.
 Expected Deliverable
 We are looking for a well-structured report that includes data visualizations (such as charts or dashboards) to clearly present insights. The report should include practical takeaways we can use to inform leadership decisions.
 ________________________________________
