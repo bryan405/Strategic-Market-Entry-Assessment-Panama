@@ -7,9 +7,8 @@
 
 1. [Executive Summary](#Executive--Summary)
 2. [Business Request](#-business-request)
-3.  
-4. [Methodology & Data Cleaning](#Methodology-data--cleaning)  
-5. [Key Finding & Insights](#Key-Findings-&--Insights) 
+3. [Methodology & Data Cleaning](#Methodology-data--cleaning)  
+4. [Key Finding & Insights](#Key-Findings-&--Insights) 
 6. [Dashboard](#-dashboard)  
 7. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
 8. [🗂️ Data Sources](#-data-sources)
