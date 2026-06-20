@@ -140,11 +140,11 @@ Expected Deliverable
 We are looking for a well-structured report that includes data visualizations (such as charts or dashboards) to clearly present insights. The report should include practical takeaways we can use to inform leadership decisions.
 ________________________________________
 
- # [🧹 Data Cleaning](#-data-cleaning) 
+ # [Methodology & Data Cleaning](#Methodology-data--cleaning)
 ## Panama Macroeconomic Data Cleaning Documentation
 A Multi‑Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017–2023)
-Tools:  Power BI, SQL, Excel
-Sources: INEC Panama (FDI, GDP, GVA, Provincial GDP, Quarterly GDP)
+- Tools:  Power BI, SQL, Excel
+- Data Sources: INEC Panama (FDI, GDP, GVA, Provincial GDP, Quarterly GDP)
 ## Project Overview
 This project consolidates and cleans multiple macroeconomic datasets from INEC Panama to build a unified analytical foundation for studying.
 Foreign Direct Investment (FDI)
