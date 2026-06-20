@@ -396,6 +396,8 @@ This shows that global companies are not only entering Panama — they are expan
 High FDI confirms that Panama offers a business‑friendly environment, strong infrastructure, and predictable rules.
 This reduces risk for Dajcom and supports long‑term planning.
 
+![FDI](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/FDI%20GDP.png)
+
 
 
 ## Regional & Provincial Insights: Where Economic Activity Is Concentrated
