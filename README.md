@@ -105,12 +105,6 @@ Overall Conclusion
 Panama is a high‑potential market with strong economic fundamentals, expanding sectors, rising foreign investment, and world‑class logistics. The data supports a “Go” decision for Dajcom.
 
 A phased entry — starting with distribution, followed by a regional hub, and later exploring local manufacturing — gives Dajcom a safe and scalable path into the market.
-# [👤 About Me](#-about-me)
-Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
-
-I am currently developing inventory, logistics, and supply chain analytics projects to strengthen my skills in business intelligence and process optimization.
-
-Tools: SQL, Power BI, Excel, Python.
 
 # [Business Request](#-business-request)
 ### project overview
