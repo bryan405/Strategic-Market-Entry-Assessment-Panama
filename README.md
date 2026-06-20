@@ -31,7 +31,7 @@ The economy dropped sharply in 2020, but the rebound was fast and strong:
 Annual GDP climbed from $47.5K to $67.9K in three years.
 Quarterly GDP shows normal ups and downs, but the base remains stable at around $17K.
 
-**What this means:**  
+  
 Panama is not a risky market. It is a growing, predictable environment where Dajcom can enter with confidence.
 
 **Sector Performance: Clear Engines of Growth**
@@ -49,55 +49,55 @@ Service activities
 
 Long‑term growth is also strong, with sectors like exploitation (16% CAGR) and construction (11% CAGR) leading the way.
 
-**What this means:**  
+this means: 
 - These sectors match Dajcom’s strengths.
 - Growing construction supports appliance demand.
 - Growing commerce supports food and beverage distribution.
 - Strong logistics supports regional operations.
 
-3. Foreign Direct Investment: Strong Global Confidence
+ Foreign Direct Investment: Strong Global Confidence
 FDI is one of Panama’s strongest signals.
 
-$403M total FDI (2017–2023)
+- $403M total FDI (2017–2023)
 
-~500% CAGR
+- -500% CAGR
 
-Growth stabilizing around 35–36%
+- Growth stabilizing around 35–36%
 
 This shows that global companies are not only entering Panama — they are expanding their investments.
 
-What this means:  
+  
 Panama offers a business‑friendly environment with good infrastructure and clear rules.
 This reduces risk for Dajcom and supports long‑term planning.
 
-4. Regional Insights: Where Economic Activity Is Concentrated
+Regional Insights: Where Economic Activity Is Concentrated
 Economic activity is not spread evenly. It is concentrated in a few high‑value regions:
 
-Panamá — economic center, retail hub
+- Panamá — economic center, retail hub
 
-Colón — logistics and Free Trade Zone
+- Colón — logistics and Free Trade Zone
 
-Panamá Oeste — fast‑growing industrial and residential area
+- Panamá Oeste — fast‑growing industrial and residential area
 
-Chiriquí — rising commercial and agricultural region
+- Chiriquí — rising commercial and agricultural region
 
 Partner‑country data shows strong ties with the US, Colombia, Canada, and Europe, reinforcing Panama’s global connectivity.
 
-What this means:  
+  
 Dajcom should anchor operations in Panamá and Panamá Oeste, use Colón for import/export, and consider Chiriquí for future manufacturing.
 
-5. Key Indicators: A Healthy, Expanding Economy
+### Key Indicators: A Healthy, Expanding Economy
 Across the dashboards, the indicators point in the same direction:
 
-GDP CAGR (2018–2022): 3%
+- GDP CAGR (2018–2022): 3%
 
-Sector CAGR (1996–2022): 6%
+- Sector CAGR (1996–2022): 6%
 
-FDI CAGR (2017–2023): 500%
+- FDI CAGR (2017–2023): 500%
 
-Total GVA (2018–2022): $324K
+- Total GVA (2018–2022): $324K
 
-**What this means:**  
+  
 Panama’s growth is broad‑based, not dependent on one sector.
 This creates a stable environment for long‑term investment.
 
