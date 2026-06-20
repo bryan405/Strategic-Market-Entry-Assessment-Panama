@@ -17,9 +17,9 @@
 #  [Executive Summary](#Executive--Summary) 
 
 ## Why Panama Matters
-Panama is a small country with a big economic engine. Over the last few years, the economy has shown strong recovery, steady growth, and a clear shift toward logistics, commerce, and services. For a company like Dajcom — operating in home appliances, food, and beverages — Panama offers a mix of market demand, logistics strength, and investment‑friendly conditions.
+Dajcom is evaluating Panama as a strategic growth market.panama Market Entry Analysis shows a resilient, service‑driven economy with strong logistics, construction, commerce, and Foreign direct investment (FDI) momentum, especially around the Panama City,Colón,Panamá Oeste corridor. This supports a phased entry focused on food & beverage, home appliances distribution, and logistics‑enabled retail partnerships.
 
-The dashboards you provided help us see this story clearly.
+The dashboards we provided help you see this story clearly.
 
 # [👤 About Me](#-about-me)
 Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
