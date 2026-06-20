@@ -440,4 +440,11 @@ o	GDP: GDP value (likely in million USD or Balboas)
 
  [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/tables%20doccumentaion.docx)
 
+ # [Business Request](#-business-request)
+ Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
+
+I am currently developing inventory, logistics, and supply chain analytics projects to strengthen my skills in business intelligence and process optimization.
+
+Tools: SQL, Power BI, Excel, Python.
+
 
