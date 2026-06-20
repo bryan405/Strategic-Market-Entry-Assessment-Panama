@@ -12,7 +12,14 @@
 5. [Key Finding & Insights](#Key-Findings-&--Insights) 
 6. [Dashboard](#-dashboard)  
 7. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
-8. [🗂️ Data Sources](#-data-sources)  
+8. [🗂️ Data Sources](#-data-sources)
+
+ # [Executive Summary](#Executive--Summary) 
+
+ ## Why Panama Matters
+Panama is a small country with a big economic engine. Over the last few years, the economy has shown strong recovery, steady growth, and a clear shift toward logistics, commerce, and services. For a company like Dajcom — operating in home appliances, food, and beverages — Panama offers a mix of market demand, logistics strength, and investment‑friendly conditions.
+
+The dashboards you provided help us see this story clearly.
 
 # [👤 About Me](#-about-me)
 Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
