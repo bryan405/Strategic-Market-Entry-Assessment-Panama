@@ -35,6 +35,7 @@ Quarterly GDP shows normal ups and downs, but the base remains stable at around 
 Panama is not a risky market. It is a growing, predictable environment where Dajcom can enter with confidence.
 
 **Sector Performance: Clear Engines of Growth**
+
 The sector dashboards show that Panama’s economy is driven by a few strong pillars:
 
 Commerce
@@ -51,7 +52,7 @@ Long‑term growth is also strong, with sectors like exploitation (16% CAGR) and
 
 this means: 
 - These sectors match Dajcom’s strengths.
-- Growing construction supports appliance demand.
+- Growing construction supports home appliance demand.
 - Growing commerce supports food and beverage distribution.
 - Strong logistics supports regional operations.
 
