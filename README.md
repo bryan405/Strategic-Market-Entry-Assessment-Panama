@@ -398,8 +398,6 @@ This reduces risk for Dajcom and supports long‑term planning.
 
 ![FDI](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/FDI%20GDP.png)
 
-
-
 ## Regional & Provincial Insights: Where Economic Activity Is Concentrated
 The provincial dashboard shows that most economic activity is concentrated in four regions:
 
@@ -427,6 +425,8 @@ This reinforces Panama’s position as a global trade hub.
 
 **Insight:**  
 Dajcom should anchor operations in Panamá city and Panamá Oeste, use Colón for import/export, and consider Chiriquí for future manufacturing or regional distribution.
+
+![Provincial](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/PROVINCE%20AND%20TOP%20COUNTRIES.png)
 
 ![Sectoral Performance](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/SECTORAL%20PERFORMANCE.png)
 ![Key sector](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/KEY%20SECTOR.png)
