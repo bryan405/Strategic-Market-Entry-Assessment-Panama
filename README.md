@@ -158,7 +158,7 @@ Sector‑level economic performance
 All datasets were processed using the same senior‑level ETL methodology:
 
 ### Ingestion
-Imported Excel/CSV files using Python and Power BI.
+Imported Excel/CSV files using SQL and Power BI.
 
 Inspected raw structure to identify metadata, merged cells, footnotes, and non‑data rows.
 
@@ -332,6 +332,7 @@ Columns: Sector, Quarter, Q_GDP_Value
 - Unpivoted quarter columns.
 
 - Cleaned numeric formatting.
+  ![Relationship](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/MODEL%20RELATIONSHIP.png)
 
 
 
