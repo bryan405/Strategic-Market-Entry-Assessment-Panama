@@ -296,7 +296,7 @@ Columns: Sector, Year, GDP_Value
 
 - Document citation
 
--Removed aggregated total rows and checked for duplicate sector-year entries.
+Removed aggregated total rows and checked for duplicate sector-year entries.
 
 ### Provincial GDP (2018–2023)
 File: GDP_Provincial_2018_2023.csv  
