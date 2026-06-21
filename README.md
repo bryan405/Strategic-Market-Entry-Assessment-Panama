@@ -10,8 +10,8 @@
 3. [Methodology & Data Cleaning](#Methodology-data--cleaning)  
 4. [Key Finding & Insights](#Key-Findings-&--Insights) 
 6. [Dashboard](#-dashboard)  
-7. [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)  
-8. [🗂️ Data Sources](#-data-sources)
+7. [Recomendations](#Recomendations)  
+8. 
 9. [About Me](#-about-me)
 
 #  [Executive Summary](#Executive--Summary) 
@@ -430,103 +430,72 @@ Dajcom should anchor operations in Panamá city and Panamá Oeste, use Colón fo
 
 ![Provincial](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/PROVINCE%20AND%20TOP%20COUNTRIES.png)
 
+### Key Indicators: What the Numbers Say About Market Potential
+Across the dashboards, the indicators point in the same direction:
+
+GDP CAGR (2018–2022): 3%
+
+Sector CAGR (1996–2022): 6%
+
+FDI CAGR (2017–2023): 500%
+
+Total GVA (2018–2022): $324K
+
+These numbers show a healthy, expanding economy with strong sector performance and rising investment.
+
+**Insight:**  
+Panama’s growth is broad‑based, not dependent on one sector.
+This creates a stable environment for long‑term investment and expansion.
+
+Dashboard pages used:
+
+Annual & Quarterly GDP
+
+Key Sector Contributing to GDP
+
+Sectoral Performance Trends
+
+FDI GDP
+
 # [Dashboard](#-dashboard)
 ![Click here](<iframe title="power bi panama growth analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 
 
- # [🧠 DAX Modelling & Relationships](#-dax-modelling--relationships)
+ # [Recomendations](#Recomendations)
+### Enter the market in phases
+Start with import and distribution in Panamá and Panamá Oeste.
 
-### BridgeTableYear 
-Purpose: Creates a consistent year table from 1996 to 2025 to link with all time-based fact tables.
-•	Ensures uniform year values
-•	Supports clean one-to-many relationships
-•	Improves filtering, DAX accuracy, and report performance
+Build a regional distribution hub in Colón or Panamá Oeste.
 
-Code = let
-    StartYear = 1996,
-    EndYear = 2025,
-    YearList = List.Generate(
-        () => StartYear,
-        each _ <= EndYear,
-        each _ + 1
-    ),
-    YearTable = Table.FromList(YearList, Splitter.SplitByNothing(), {"Year"})
-in
-    YearTable
+Explore local manufacturing once demand scales.
 
-### QuarterTable 
-Purpose: Generates combinations of Year and Quarter (e.g., 2018Q1) from 2018 to 2025.
-•	Enables seasonal analysis
-•	Links cleanly to quarterly GDP 
-•	Avoids redundant year/quarter logic in reports
+### Focus on high‑opportunity sectors
+- Food & beverage
 
-Code = let
-    StartYear = 2018,
-    EndYear = 2025,
-    Quarters = { "Q1", "Q2", "Q3", "Q4" },
-    YearQuarterList = List.Combine(
-        List.Transform(
-            {StartYear..EndYear},
-            each List.Transform(Quarters, (q) => Text.From(_) & q)
-        )
-    ),
-    YearQuarterTable = Table.FromList(YearQuarterList, Splitter.SplitByNothing(), {"YearQuarter"})
-in
-    YearQuarterTable
- ### DimSector 
-Purpose: Combines and cleans Sector columns from multiple fact tables to create a unified dimension.
-•	Resolves many-to-many issues with a one-to-many model
-•	Standardizes naming (trimming, casing)
-•	Enables consistent filtering and accurate DAX
+- Home appliances
 
-Code = let
-    // Select and rename Sector columns for consistency
-    GDP_Annual = Table.RenameColumns(Table.SelectColumns(#"Panama’s_Annual_GDP__2018_2023", {"Sector"}), {{"Sector", "Sector"}}),
-    GDP_Quarterly = Table.RenameColumns(Table.SelectColumns(#"Panama’s_Quarterly_GDP__2018_2023", {"Sector"}), {{"Sector", "Sector"}}),
-    FDI = Table.RenameColumns(Table.SelectColumns(#"FDI__by_Economic_Activity", {"Sector"}), {{"Sector", "Sector"}}),
-    GVA = Table.RenameColumns(Table.SelectColumns(#"Gross_Value_Added__GVA__by_Economic_Sector", {"Sector"}), {{"Sector", "Sector"}}),
-    GDP_Historical = Table.RenameColumns(Table.SelectColumns(#"Panama’s GDP by Economic Activities", {"Sector"}), {{"Sector", "Sector"}}),
+- Retail and commerce
 
-    // Combine all sectors
-    AllSectors = Table.Combine({GDP_Annual, GDP_Quarterly, FDI, GVA, GDP_Historical}),
+- Logistics partnerships
 
-    // Clean: Trim whitespace, remove nulls/empty, and lowercase for standardization
-    CleanedSectors = Table.SelectRows(AllSectors, each [Sector] <> null and Text.Trim([Sector]) <> ""),
-    TrimmedSectors = Table.TransformColumns(CleanedSectors, {{"Sector", Text.Trim}}),
-    LowerCased = Table.TransformColumns(TrimmedSectors, {{"Sector", Text.Lower}}),
+### Choose locations that match your strategy
+- Panamá City - Corporate and sales
 
-    // Remove duplicates
-    UniqueSectors = Table.Distinct(LowerCased),
+- Panamá Oeste - Warehousing
 
-    // Capitalize sector names again (optional)
-    Capitalized = Table.TransformColumns(UniqueSectors, {{"Sector", Text.Proper}}),
+- Colón - Import/export
 
-    // Add SectorKey
-    AddKey = Table.AddIndexColumn(Capitalized, "SectorKey", 1, 1, Int64.Type)
-in
-    AddKey
-    [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/DAX%20CODES.docx)
+- Chiriquí  Future manufacturing
 
+### Manage risks early
+Use flexible inventory to handle quarterly GDP swings.
+
+Balance exposure across retail, logistics, and manufacturing.
+
+Maintain strong local advisory support for regulations.
 	
-
-    
-![Captura de pantalla 2025-06-14 192436](https://github.com/user-attachments/assets/44995f4f-5053-48e9-a22b-0a0e1337d3f2)
-![Captura de pantalla 2025-06-14 192750](https://github.com/user-attachments/assets/2d18b783-f847-484e-83fb-5cf873532574)
-# [🗂️ Data Sources](#-data-sources) 
- 1. Panama’s GDP by Economic Sector
-•	Source: INEC Panama – National Accounts by Sector :( CUENTAS ESPECIALES-
-Serie Homogénea 1996-2022, con año de referencia 2018	•	
-1996-2022)
-•	Purpose: Tracks the annual GDP contribution by each sector.
-•	Columns:
-o	Sector: Name of the economic sector
-o	Year: Reporting year
-o	GDP: GDP value (likely in million USD or Balboas)
-
- [Click here for full detail](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/raw/refs/heads/main/tables%20doccumentaion.docx)
-
- # [Business Request](#-business-request)
+# [About Me](#-about-me)
  Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
 
 I am currently developing inventory, logistics, and supply chain analytics projects to strengthen my skills in business intelligence and process optimization.
