@@ -8,7 +8,7 @@
 1. [Executive Summary](#Executive--Summary)
 2. [Business Request](#-business-request)
 3. [Methodology & Data Cleaning](#Methodology-data--cleaning)  
-4. [Key Finding & Insights](#Key-Findings-&--Insights) 
+4. [Key Findings & Insights](#Key-Findings-&--Insights) 
 6. [Dashboard](#-dashboard)  
 7. [Recomendations](#Recomendations)  
 8.  [About Me](#-about-me)
@@ -400,7 +400,7 @@ This reduces risk for Dajcom and supports long‑term planning.
 ![FDI](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/FDI%20GDP.png)
 
 ## Regional & Provincial Insights: Where Economic Activity Is Concentrated
-The provincial dashboard shows that most economic activity is concentrated in four regions:
+The provincial analysis shows that most economic activity is concentrated in four regions:
 
 Panamá - main economic center
 
