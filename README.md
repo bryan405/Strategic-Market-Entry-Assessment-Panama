@@ -11,8 +11,7 @@
 4. [Key Finding & Insights](#Key-Findings-&--Insights) 
 6. [Dashboard](#-dashboard)  
 7. [Recomendations](#Recomendations)  
-8. 
-9. [About Me](#-about-me)
+8.  [About Me](#-about-me)
 
 #  [Executive Summary](#Executive--Summary) 
 
