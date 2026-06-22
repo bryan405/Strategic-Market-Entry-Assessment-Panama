@@ -1,6 +1,6 @@
 ## 📚 Table of Contents
 
-1. [Business Request](#-business-request)
+1. [Project objectiv](#-Project-objective)
 2. [Executive Summary](#Executive--Summary)
 3. [Methodology & Data Cleaning](#Methodology-data--cleaning)  
 4. [Key Findings & Insights](#Key-Findings-&--Insights) 
@@ -8,130 +8,76 @@
 7. [Recomendations](#Recomendations)  
 8.  [About Me](#-about-me)
 
-#  [Executive Summary](#Executive--Summary) 
+# [Project objective](#-Project-objective)
 
-Dajcom is evaluating Panama as a strategic growth market.panama Market Entry Analysis shows a resilient, service‑driven economy with strong logistics, construction, commerce, and Foreign direct investment (FDI) momentum, especially around the Panama City,Colón,Panamá Oeste corridor. This supports a phased entry focused on food & beverage, home appliances distribution, and logistics‑enabled retail partnerships.
+Project Objective
+Deliver a clear, insight‑focused analysis of Panama’s economic landscape, highlighting the sectors and regions that offer the highest potential for Dajcom’s home appliances, food, and beverage portfolio.
 
-The dashboards we provided help you see this story clearly.
-![image alt](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/anual%20GDP.png)
-### Economic Growth: A Stable and Rising Market
-Panama’s GDP story is one of resilience and forward movement.
-The economy dropped sharply in 2020, but the rebound was fast and strong:
-- +18% in 2021
-- +12% in 2022
-- +8% in 2023
+📊 Key Analysis Areas
+1. Overall Economic Growth
+Evaluate Panama’s annual and quarterly GDP trends.
 
-Annual GDP climbed from $47.5K to $67.9K in three years.
-Quarterly GDP shows normal ups and downs, but the base remains stable at around $17K.
+Assess economic stability and growth momentum.
 
-  
-Panama is not a risky market. It is a growing, predictable environment where Dajcom can enter with confidence.
+Identify the optimal timing and scale for market entry.
 
-**Sector Performance: Clear Engines of Growth**
+2. Sector Performance
+Analyze GDP contribution and growth across major industries.
 
-The sector dashboards show that Panama’s economy is driven by a few strong pillars:
+Focus on food, beverages, manufacturing, logistics, and retail.
 
-Commerce
+Highlight sectors with consistent growth and strong demand signals.
 
-Transport & logistics
+3. Foreign Direct Investment (FDI)
+Review FDI inflows by sector over the last 5–10 years.
 
-Construction
+Identify industries attracting international capital.
 
-Utilities
+Assess policy, infrastructure, and investment incentives.
 
-Service activities
+4. Key Economic Indicators
+National & provincial GDP growth
 
-Long‑term growth is also strong, with sectors like exploitation (16% CAGR) and construction (11% CAGR) leading the way.
+Sectoral contribution to GDP
 
-this means: 
-- These sectors match Dajcom’s strengths.
-- Growing construction supports home appliance demand.
-- Growing commerce supports food and beverage distribution.
-- Strong logistics supports regional operations.
+CAGR for priority sectors
 
- Foreign Direct Investment: Strong Global Confidence
-FDI is one of Panama’s strongest signals.
+FDI growth and concentration patterns
 
-- $403M total FDI (2017–2023)
+These indicators help compare opportunities and rank the most promising sectors.
 
-- -500% CAGR
+5. Regional & Provincial Insights
+Provincial GDP and economic activity
 
-- Growth stabilizing around 35–36%
+Infrastructure strength (ports, highways, free zones)
 
-This shows that global companies are not only entering Panama - they are expanding their investments.
+Labor availability and urbanization
 
-  
-Panama offers a business‑friendly environment with good infrastructure and clear rules.
-This reduces risk for Dajcom and supports long‑term planning.
+Market access and distribution potential
 
-Regional Insights: Where Economic Activity Is Concentrated
-Economic activity is not spread evenly. It is concentrated in a few high‑value regions:
+This supports location decisions for manufacturing, warehousing, and distribution.
 
-- Panamá - economic center, retail hub
+🧭 Strategic Deliverables
+Market insights dashboard (GDP, sectors, FDI, regions)
 
-- Colón - logistics and Free Trade Zone
+Sector opportunity ranking
 
-- Panamá Oeste - fast‑growing industrial and residential area
+Province selection matrix (infrastructure, labor, access)
 
-- Chiriquí - rising commercial and agricultural region
+Risk assessment + mitigation plan
 
-Partner‑country data shows strong ties with the US, Colombia, Canada, and Europe, reinforcing Panama’s global connectivity.
+Entry strategy roadmap (short, medium, long term)
 
-  
-Dajcom should anchor operations in Panamá and Panamá Oeste, use Colón for import/export, and consider Chiriquí for future manufacturing.
+✅ Expected Outcome
+A concise, data‑backed view of Panama’s economic environment that enables Dajcom leadership to:
 
-### Key Indicators: A Healthy, Expanding Economy
-Across the dashboards, the indicators point in the same direction:
+Prioritize high‑potential sectors
 
-- GDP CAGR (2018–2022): 3%
+Select the best regions for operations
 
-- Sector CAGR (1996–2022): 6%
+Reduce investment risk
 
-- FDI CAGR (2017–2023): 500%
-
-- Total GVA (2018–2022): $324K
-
-  
-Panama’s growth is broad‑based, not dependent on one sector.
-This creates a stable environment for long‑term investment.
-
-Overall Conclusion
-Panama is a high‑potential market with strong economic fundamentals, expanding sectors, rising foreign investment, and world‑class logistics. The data supports a “Go” decision for Dajcom.
-
-A phased entry - starting with distribution, followed by a regional hub, and later exploring local manufacturing gives Dajcom a safe and scalable path into the market.
-
-# [Business Request](#-business-request)
-### project overview
-We are Dajcom Limited, a leading company in the home appliances, food, and beverage industry. As we explore strategic opportunities to expand our operations into Panama, we are seeking your expertise to support us with a market analysis that will guide our investment and entry decisions.
-
-**Project Objective**
-The goal of this project is to provide a clear and data-informed overview of Panama’s economic environment, focusing on the following key areas
-
-### Overall Economic Growth
-- What we need: Insights into Panama’s economic performance based on annual and quarterly GDP trends.
-- This will help us understand the stability and future potential of the market, so we can determine the right time and scale for entering Panama.
-  ### Sector Performance
-- What we need: Analysis of which industries contribute most to Panama’s economy, especially those growing steadily. We are particularly interested in sectors related to food, beverages, manufacturing, logistics, and retail.
-- Why it matters: This will help us identify which sectors to focus on or partner with for sourcing, production, or distribution.
-  **Foreign Direct Investment (FDI)**
-- What we need: An overview of FDI trends by sector, to see where international companies are choosing to invest.
-- Why it matters: Sectors that attract FDI usually have favorable policies, infrastructure, and growth potential. This will give us confidence about where to align our investment strategy.
-  ### Key Economic Indicators
-	What we need: A summary of key figures, such as:
-- GDP growth (national and provincial)
-- Sectoral contribution to GDP
--	Compound Annual Growth Rate (CAGR)
--	FDI growth by sector
-	Why it matters: These figures will help us compare opportunities and select the best sectors and regions for investment.
-### Regional and Provincial Insights
-- What we need: Analysis of economic GDP activity at the provincial level, highlighting infrastructure, market access, labor availability, and urbanization.
--	Why it matters: This will help us choose the right locations for operations such as manufacturing, warehousing, or distribution.
-  ###	Strategic Recommendations
--	What we need: A clear summary of opportunities and risks, along with suggested sectors and regions to prioritize.
--	Why it matters: Your guidance will help ensure our market entry strategy is focused, data-backed, and aligned with Panama’s economic landscape.
-Expected Deliverable
-We are looking for a well-structured report that includes data visualizations (such as charts or dashboards) to clearly present insights. The report should include practical takeaways we can use to inform leadership decisions.
-________________________________________
+Build a focused, scalable market entry strategy
 
  # [Methodology & Data Cleaning](#Methodology-data--cleaning)
 ## Panama Macroeconomic Data Cleaning Documentation
