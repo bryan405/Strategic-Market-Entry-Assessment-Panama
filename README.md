@@ -86,10 +86,10 @@ A Multi‑Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017�
 
 
  # [Executive Summary](#Executive--Summary)
-Panama is a stable, fast‑growing market with strong logistics, rising consumer demand, and high investor confidence.  
-GDP has recovered sharply post‑pandemic (+18%, +12%, +8%), driven by commerce, logistics, construction, and services. These sectors directly align with Dajcom’s product lines.
+**Panama is a stable, fast‑growing market with strong logistics, rising consumer demand, and high investor confidence.**  
+GDP has recovered sharply post‑pandemic **(+18%, +12%, +8%)**, driven by commerce, logistics, construction, and services. These sectors directly align with Dajcom’s product lines.
 
-Foreign investment is accelerating (FDI CAGR ~500%), signaling global confidence in Panama’s regulatory environment and infrastructure. Economic activity is concentrated in Panamá city, Panamá Oeste,chiriqui,and Colón - ideal locations for distribution, warehousing, and import/export.
+Foreign investment is accelerating **(FDI CAGR 500%)**, signaling global confidence in Panama’s regulatory environment and infrastructure. Economic activity is concentrated in**Panamá city,Panamá Oeste,chiriqui,and Colón** - ideal locations for distribution, warehousing, and import/export.
 
 **Recommendation:** Enter Panama in phases - start with distribution, build a regional logistics hub, and explore local manufacturing once demand scales. The data supports a **“Go”** decision for market entry.
 
