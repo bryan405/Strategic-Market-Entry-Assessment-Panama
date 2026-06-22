@@ -10,32 +10,31 @@
 
 # [Project objective](#-Project-objective)
 
-Project Objective
-Deliver a clear, insight‑focused analysis of Panama’s economic landscape, highlighting the sectors and regions that offer the highest potential for Dajcom’s home appliances, food, and beverage portfolio.
+**Deliver a clear, insight‑focused analysis of Panama’s economic landscape, highlighting the sectors and regions that offer the highest potential for Dajcom’s home appliances, food, and beverage products.**
 
-📊 Key Analysis Areas
-1. Overall Economic Growth
+## Key Analysis Areas
+### Overall Economic Growth
 Evaluate Panama’s annual and quarterly GDP trends.
 
 Assess economic stability and growth momentum.
 
 Identify the optimal timing and scale for market entry.
 
-2. Sector Performance
+### Sector Performance
 Analyze GDP contribution and growth across major industries.
 
 Focus on food, beverages, manufacturing, logistics, and retail.
 
 Highlight sectors with consistent growth and strong demand signals.
 
-3. Foreign Direct Investment (FDI)
+### Foreign Direct Investment (FDI)
 Review FDI inflows by sector over the last 5–10 years.
 
 Identify industries attracting international capital.
 
 Assess policy, infrastructure, and investment incentives.
 
-4. Key Economic Indicators
+### Key Economic Indicators
 National & provincial GDP growth
 
 Sectoral contribution to GDP
@@ -46,7 +45,7 @@ FDI growth and concentration patterns
 
 These indicators help compare opportunities and rank the most promising sectors.
 
-5. Regional & Provincial Insights
+### Regional & Provincial Insights
 Provincial GDP and economic activity
 
 Infrastructure strength (ports, highways, free zones)
@@ -57,7 +56,7 @@ Market access and distribution potential
 
 This supports location decisions for manufacturing, warehousing, and distribution.
 
-🧭 Strategic Deliverables
+### Strategic Deliverables
 Market insights dashboard (GDP, sectors, FDI, regions)
 
 Sector opportunity ranking
@@ -68,7 +67,7 @@ Risk assessment + mitigation plan
 
 Entry strategy roadmap (short, medium, long term)
 
-✅ Expected Outcome
+### Expected Outcome
 A concise, data‑backed view of Panama’s economic environment that enables Dajcom leadership to:
 
 Prioritize high‑potential sectors
