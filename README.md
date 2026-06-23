@@ -249,37 +249,53 @@ FDI GDP
 
 
  # [Recomendations](#Recomendations)
-### Enter the market in phases
-Start with import and distribution in Panamá and Panamá Oeste.
+### Strategic Recommendations for Dajcom
+**Enter in phases**
+**Phase 1: Import & distribution (0–12 months)**
+- Use local distributors
 
-Build a regional distribution hub in Colón or Panamá Oeste.
+- Focus on Panamá and Panamá Oeste
 
-Explore local manufacturing once demand scales.
+- Build brand presence
+
+**Phase 2: Regional distribution hub (12–24 months)**
+- Use Colón or Panamá Oeste
+
+- Serve Central America and the Caribbean
+
+- Reduce logistics cost
+
+**Phase 3: Local manufacturing (24–48 months)**
+- Co‑packing for beverages
+
+- Assembly for selected appliances
+
+- Consider Chiriquí or Coclé for lower costs
 
 ### Focus on high‑opportunity sectors
-- Food & beverage
+- **Food & beverage**
 
-- Home appliances
+- **Home appliances**
 
-- Retail and commerce
+- **Retail and commerce**
 
-- Logistics partnerships
+- **Logistics partnerships**
 
 ### Choose locations that match your strategy
-- Panamá City - Corporate and sales
+**Panamá City** - Operation and sales
 
-- Panamá Oeste - Warehousing
+**Panamá Oeste** - Warehousing
 
-- Colón - Import/export
+**Colón** - Import/export
 
-- Chiriquí  Future manufacturing
+**Chiriquí** - Future manufacturing
 
 ### Manage risks early
-Use flexible inventory to handle quarterly GDP swings.
+- Quarterly GDP swings → Use flexible inventory
 
-Balance exposure across retail, logistics, and manufacturing.
+- Heavy service‑sector reliance → Balance with retail and logistics
 
-Maintain strong local advisory support for regulations.
+- Regulatory changes → Keep strong local advisory support
 	
 # [About Me](#-about-me)
  Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
