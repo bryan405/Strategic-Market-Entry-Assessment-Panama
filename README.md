@@ -97,124 +97,124 @@ Foreign investment is accelerating **(FDI CAGR 500%)**, signaling global confide
 
 
 # [Key Finding & Insights](#Key-Findings-&--Insights)
-A comeback story after 2020
+**A comeback story after 2020**
 The annual GDP chart shows:
 
-2018–2019: Stable growth
+- **2018–2019:** Stable growth
 
-2020: Sharp drop (–20%)
+- **2020:** Sharp drop **(–20%)**
 
-2021–2023: Strong rebound
+- **2021–2023:** Strong rebound
 
-+18% in 2021
+- **+18% in 2021**
 
-+12% in 2022
+- **+12% in 2022**
 
-+8% in 2023
+- **+8% in 2023**
 
-GDP rose from $47.5K in 2020 to $67.9K in 2023.
+GDP rose from **$47.5K** in **2020** to **$67.9K** in **2023.**
 
-Quarterly GDP shows movement but not weakness
-Quarterly growth swings between –42% and +25%, but the average stays around $17K.
+**Quarterly GDP shows movement but not weakness**
+Quarterly growth swings between **–42% and +25%,** but the average stays around **$17K.**
 This means the economy moves with the global cycle, but the base remains strong.
 
-What this means for Dajcom
+**What this means for Dajcom**
 Panama is not slowing down.
-It is a growing, stable market where new brands can enter and scale safely.
+It is a **growing, stable market** where new brands can enter and scale safely.
 
-3. Sector Performance: Where the Real Growth Is Happening
+### Sector Performance: Where the Real Growth Is Happening
 The sector dashboards highlight the engines of Panama’s economy.
 
-Top sectors by contribution (2018–2022)
-Commerce
+### Top sectors by contribution (2018–2022)
+**Commerce**
 
-Transport & logistics
+**Transport & logistics**
 
-Construction
+**Construction**
 
-Utilities (supply)
+**Utilities (supply)**
 
-Service activities
+**Service activities**
 
-These sectors show both high GDP contribution and steady growth.
+These sectors show both **high GDP contribution** and **steady growth**.
 
-Fastest‑growing sectors (long‑term CAGR)
-Exploitation: 16%
+**Fastest‑growing sectors (long‑term CAGR)**
+**Exploitation: 16%**
 
-Construction: 11%
+**Construction: 11%**
 
-Utilities: 9%
+**Utilities: 9%**
 
-Transport: 7%
+**Transport: 7%**
 
-Service activities: 7%
+**Service activities: 7%**
 
-Why this matters for Dajcom
-Food & beverage: Strong retail and commerce growth supports product distribution.
+**Why this matters for Dajcom**
+**Food & beverage:** Strong retail and commerce growth supports product distribution.
 
-Home appliances: Construction growth means more homes and more demand for appliances.
+**Home appliances:** Construction growth means more homes and more demand for appliances.
 
-Logistics: Panama’s transport sector is ideal for warehousing and regional distribution.
+**Logistics:** Panama’s transport sector is ideal for warehousing and regional distribution.
 
-Manufacturing: Food and beverage processing is growing — good for co‑packing or local production.
+**Manufacturing:** Food and beverage processing is growing — good for co‑packing or local production.
 
-4. Foreign Direct Investment: Where Global Companies Are Betting
+### Foreign Direct Investment: Where Global Companies Are Betting
 The FDI dashboard shows a very clear message:
 
-Total FDI (2017–2023): $403M
+- **Total FDI (2017–2023): $403M**
 
-FDI CAGR: ~500%
+- **FDI CAGR: 500%**
 
-Growth rate stabilizing around 35–36%
+- **Growth rate stabilizing around 35–36%**
 
-This means global companies are not only entering Panama — they are expanding their investments.
+This means global companies are not only entering Panama - they are **expanding their investments**.
 
-Why this matters
+**Why this matters**
 FDI usually flows to sectors with:
 
-Good infrastructure
+- Good infrastructure
 
-Clear rules
+- Clear rules
 
-Strong demand
+- Strong demand
 
-Government support
+- Government support
 
-These are the same sectors Dajcom is targeting: commerce, logistics, construction, and services.
+These are the same sectors Dajcom is targeting: **commerce, logistics, construction, and services**.
 
-5. Regional Insights: Where Economic Activity Is Concentrated
+### Regional Insights: Where Economic Activity Is Concentrated
 The provincial dashboard shows a strong concentration of GDP in a few key regions.
 
-Top provinces by economic activity
-Panamá — largest share of GDP
+**Top provinces by economic activity**
+**Panamá city** - largest share of GDP
 
-Colón — logistics and Free Trade Zone
+**Colón** - logistics and Free Trade Zone
 
-Panamá Oeste — fast‑growing industrial and residential area
+**Panamá Oeste** - fast‑growing industrial and residential area
 
-Chiriquí — rising commercial and agricultural hub
+**Chiriquí** — rising commercial and agricultural hub
 
-Top partner countries
-United States: $78M
+### Top partner countries
+**United States: $78M**
 
-Colombia: $68M
+**Colombia: $68M**
 
-Barbados: $33M
+**Barbados: $33M**
 
-Switzerland: $28M
+**Switzerland: $28M**
 
-Canada: $23M
+**Canada: $23M**
 
 This confirms Panama’s strong global connections.
 
-What this means for Dajcom
-Panamá City → Best for headquarters and brand presence
+**What this means for Dajcom**
+**Panamá City** - Best for headquarters and brand presence
 
-Panamá Oeste → Ideal for warehousing and distribution
+**Panamá Oeste** - Ideal for warehousing and distribution
 
-Colón → Best for import/export and re‑export
+**Colón** - Best for import/export and re‑export
 
-Chiriquí → Long‑term option for manufacturing or regional distribution
+**Chiriquí** - Long‑term option for manufacturing or regional distribution
 
 ### Key Indicators: What the Numbers Say About Market Potential
 Across the dashboards, the indicators point in the same direction:
