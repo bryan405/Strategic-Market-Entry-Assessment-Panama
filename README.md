@@ -82,8 +82,9 @@ Build a focused, scalable market entry strategy
 ## Panama Macroeconomic Data Cleaning Documentation
 A Multi‑Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017–2023)
 - Tools:  Power BI, SQL, Excel
-- Data Sources: INEC Panama (FDI, GDP, GVA, Provincial GDP, Quarterly GDP)
-  ![ERD Diagram](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/ERD%20Diagram.pdf)
+- Data Sources: INEC Panama (FDI, GDP, GVA, Provincial GDP, Quarterly GDP
+  
+![ERD Diagram](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/ERD%20Diagram.pdf)
 
 
  # [Executive Summary](#Executive--Summary)
