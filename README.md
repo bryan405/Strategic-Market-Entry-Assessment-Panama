@@ -216,37 +216,23 @@ This confirms Panama’s strong global connections.
 
 **Chiriquí** - Long‑term option for manufacturing or regional distribution
 
-### Key Indicators: What the Numbers Say About Market Potential
-Across the dashboards, the indicators point in the same direction:
+## Key Indicators That Support Market Entry
+From the dashboards:
 
-GDP CAGR (2018–2022): 3%
+- **GDP CAGR (2018–2022): 3%**
 
-Sector CAGR (1996–2022): 6%
+- **Sector GDP (1999–2022): $29K**
 
-FDI CAGR (2017–2023): 500%
+- **Sector CAGR (1996–2022): 6%**
 
-Total GVA (2018–2022): $324K
+- **FDI CAGR (2017–2023): 500%**
 
-These numbers show a healthy, expanding economy with strong sector performance and rising investment.
+- **Total GVA (2018–2022): $324K**
 
-**Insight:**  
-Panama’s growth is broad‑based, not dependent on one sector.
-This creates a stable environment for long‑term investment and expansion.
-
-Dashboard pages used:
-
-Annual & Quarterly GDP
-
-Key Sector Contributing to GDP
-
-Sectoral Performance Trends
-
-FDI GDP
+These numbers show a **healthy, expanding economy** with strong sector performance and high investor confidence.
 
 # [Dashboard](#-dashboard)
 ![Click here](<iframe title="power bi panama growth analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
-
-
 
  # [Recomendations](#Recomendations)
 ### Strategic Recommendations for Dajcom
