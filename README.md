@@ -88,6 +88,7 @@ A Multi‑Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017�
  # [Executive Summary](#Executive--Summary)
 **Panama is a stable, fast‑growing market with strong logistics, rising consumer demand, and high investor confidence.**  
 GDP has recovered sharply post‑pandemic **(+18%, +12%, +8%)**, driven by commerce, logistics, construction, and services. These sectors directly align with Dajcom’s product lines.
+
 Quarterly GDP moves up and down, but the average stays around **$17K**, which signals a stable base of economic activity.
 
 Foreign investment is accelerating **(FDI CAGR 500%)**, signaling global confidence in Panama’s regulatory environment and infrastructure. Economic activity is concentrated in**Panamá city,Panamá Oeste,chiriqui,and Colón** - ideal locations for Operation, distribution, warehousing, and import/export.
@@ -96,98 +97,124 @@ Foreign investment is accelerating **(FDI CAGR 500%)**, signaling global confide
 
 
 # [Key Finding & Insights](#Key-Findings-&--Insights)
+A comeback story after 2020
+The annual GDP chart shows:
 
-## Panama’s Economic Growth: A Market Moving in the Right Direction
-The dashboard shows a clear recovery and steady expansion.
-After the sharp drop in 2020, annual GDP climbed from $47.5K to $67.9K by 2023. Growth moved from –20% to +18%, +12%, and +8% in three consecutive years.
+2018–2019: Stable growth
 
-Quarterly GDP moves up and down, but the average stays around $17K, which signals a stable base of economic activity.
+2020: Sharp drop (–20%)
 
-**Insight:**  
-Panama is not just recovering - it is growing with consistency, creating a safe window for Dajcom to enter within the next 1–3 years.
+2021–2023: Strong rebound
 
++18% in 2021
 
-## Sector Performance: Where Panama’s Growth Is Coming From
-The sector dashboards highlight the engines of the economy.
-Between 2018–2022, the strongest contributors are:
++12% in 2022
 
++8% in 2023
+
+GDP rose from $47.5K in 2020 to $67.9K in 2023.
+
+Quarterly GDP shows movement but not weakness
+Quarterly growth swings between –42% and +25%, but the average stays around $17K.
+This means the economy moves with the global cycle, but the base remains strong.
+
+What this means for Dajcom
+Panama is not slowing down.
+It is a growing, stable market where new brands can enter and scale safely.
+
+3. Sector Performance: Where the Real Growth Is Happening
+The sector dashboards highlight the engines of Panama’s economy.
+
+Top sectors by contribution (2018–2022)
 Commerce
 
 Transport & logistics
 
 Construction
 
-Utilities
+Utilities (supply)
 
 Service activities
 
-Long‑term trends (1996–2022) show fast growth in:
+These sectors show both high GDP contribution and steady growth.
 
-Exploitation (16% CAGR)
+Fastest‑growing sectors (long‑term CAGR)
+Exploitation: 16%
 
-Construction (11% CAGR)
+Construction: 11%
 
-Utilities (9% CAGR)
+Utilities: 9%
 
-Transport (7% CAGR)
+Transport: 7%
 
-These sectors match Dajcom’s product lines and operating model.
-- Construction growth supports home appliance demand.
-- Commerce growth supports food and beverage distribution.
-- Transport growth supports logistics and warehousing.
+Service activities: 7%
 
-**Insight:**  
-Panama’s sector mix aligns well with Dajcom’s strengths, especially in retail, logistics, and consumer goods.
+Why this matters for Dajcom
+Food & beverage: Strong retail and commerce growth supports product distribution.
 
-![Sectoral Performance](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/SECTORAL%20PERFORMANCE.png)
-![Key sector](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/KEY%20SECTOR.png)
+Home appliances: Construction growth means more homes and more demand for appliances.
 
-## Foreign Direct Investment: Strong Confidence From Global Companies
-FDI is one of the clearest signals in the dashboard.
+Logistics: Panama’s transport sector is ideal for warehousing and regional distribution.
 
-$403M total FDI (2017–2023)
+Manufacturing: Food and beverage processing is growing — good for co‑packing or local production.
 
-~500% CAGR
+4. Foreign Direct Investment: Where Global Companies Are Betting
+The FDI dashboard shows a very clear message:
 
-Growth stabilizing around 35–36%
+Total FDI (2017–2023): $403M
 
-This shows that global companies are not only entering Panama — they are expanding their investments across logistics, construction, and services.
+FDI CAGR: ~500%
 
-**Insight:**  
-High FDI confirms that Panama offers a business‑friendly environment, strong infrastructure, and predictable rules.
-This reduces risk for Dajcom and supports long‑term planning.
+Growth rate stabilizing around 35–36%
 
-![FDI](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/FDI%20GDP.png)
+This means global companies are not only entering Panama — they are expanding their investments.
 
-## Regional & Provincial Insights: Where Economic Activity Is Concentrated
-The provincial analysis shows that most economic activity is concentrated in four regions:
+Why this matters
+FDI usually flows to sectors with:
 
-Panamá - main economic center
+Good infrastructure
 
-Colón - logistics and Free Trade Zone
+Clear rules
 
-Panamá Oeste - fast‑growing industrial and residential area
+Strong demand
 
-Chiriquí - rising commercial and agricultural hub
+Government support
 
-Together, these regions account for almost 90% of national GDP.
+These are the same sectors Dajcom is targeting: commerce, logistics, construction, and services.
 
-Partner‑country data shows strong ties with:
+5. Regional Insights: Where Economic Activity Is Concentrated
+The provincial dashboard shows a strong concentration of GDP in a few key regions.
 
-- United States
+Top provinces by economic activity
+Panamá — largest share of GDP
 
-- Colombia
+Colón — logistics and Free Trade Zone
 
-- Canada
+Panamá Oeste — fast‑growing industrial and residential area
 
-- Europe
+Chiriquí — rising commercial and agricultural hub
 
-This reinforces Panama’s position as a global trade hub.
+Top partner countries
+United States: $78M
 
-**Insight:**  
-Dajcom should anchor operations in Panamá city and Panamá Oeste, use Colón for import/export, and consider Chiriquí for future manufacturing or regional distribution.
+Colombia: $68M
 
-![Provincial](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/PROVINCE%20AND%20TOP%20COUNTRIES.png)
+Barbados: $33M
+
+Switzerland: $28M
+
+Canada: $23M
+
+This confirms Panama’s strong global connections.
+
+What this means for Dajcom
+Panamá City → Best for headquarters and brand presence
+
+Panamá Oeste → Ideal for warehousing and distribution
+
+Colón → Best for import/export and re‑export
+
+Chiriquí → Long‑term option for manufacturing or regional distribution
 
 ### Key Indicators: What the Numbers Say About Market Potential
 Across the dashboards, the indicators point in the same direction:
