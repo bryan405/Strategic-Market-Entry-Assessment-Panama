@@ -187,7 +187,7 @@ The provincial Analysis shows a strong concentration of GDP in a few key regions
 - **Panamá city - $238K GDP**  
 Economic core, retail + services powerhouse
 
-- **Colón — $65K GDP**  
+- **Colón - $65K GDP**  
 Logistics + Free Trade Zone gateway
 
 - **Panamá Oeste - $42K GDP**  
@@ -220,7 +220,7 @@ This confirms Panama’s strong global connections.
 **Chiriquí** - Long‑term option for manufacturing or regional distribution
 
 ## Key Indicators That Support Market Entry
-From the dashboards:
+From the Analysis:
 
 - **GDP CAGR (2018–2022): 3%**
 
