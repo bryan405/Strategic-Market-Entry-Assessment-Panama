@@ -183,16 +183,19 @@ FDI usually flows to sectors with:
 These are the same sectors Dajcom is targeting: **commerce, logistics, construction, and services**.
 
 ### Regional Insights: Where Economic Activity Is Concentrated
-The provincial dashboard shows a strong concentration of GDP in a few key regions.
+The provincial Analysis shows a strong concentration of GDP in a few key regions.
+- **Panamá city - $238K GDP**  
+Economic core, retail + services powerhouse
 
-**Top provinces by economic activity**
-**Panamá city** - largest share of GDP
+- **Colón — $65K GDP**  
+Logistics + Free Trade Zone gateway
 
-**Colón** - logistics and Free Trade Zone
+- **Panamá Oeste - $42K GDP**  
+Fast‑growing industrial corridor
 
-**Panamá Oeste** - fast‑growing industrial and residential area
+- **Chiriquí - $25K GDP**  
+Agricultural + commercial expansion zone
 
-**Chiriquí** — rising commercial and agricultural hub
 
 ### Top partner countries
 **United States: $78M**
