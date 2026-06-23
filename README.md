@@ -277,16 +277,16 @@ These numbers show a **healthy, expanding economy** with strong sector performan
 **Chiriquí** - Future manufacturing
 
 ### Manage risks early
-- Quarterly GDP swings → Use flexible inventory
+- Quarterly GDP swings - Use flexible inventory
 
-- Heavy service‑sector reliance → Balance with retail and logistics
+- Heavy service‑sector reliance - Balance with retail and logistics
 
-- Regulatory changes → Keep strong local advisory support
+- Regulatory changes - Keep strong local advisory support
 	
 # [About Me](#-about-me)
- Data Analyst with experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
+ Data Analyst with many years experience in sales, customer service, inventory management, and logistics operations. Specialized in the use of SQL, Excel, and Power BI to analyze data,reports, and create visualizations that support data‑driven decision‑making.
 
-I am currently developing inventory, logistics, and supply chain analytics projects to strengthen my skills in business intelligence and process optimization.
+I am currently Expanding to inventory, logistics, and supply chain analytics to strengthen my skills in business intelligence and process optimization.
 
 Tools: SQL, Power BI, Excel, Python.
 
