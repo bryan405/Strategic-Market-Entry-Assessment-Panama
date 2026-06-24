@@ -90,7 +90,6 @@ A Multi‑Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017�
  # [Executive Summary](#Executive--Summary)
 **Panama is a stable, fast‑growing market with strong logistics, rising consumer demand, and high investor confidence.**  
 GDP has recovered sharply post‑pandemic **(+18%, +12%, +8%)**, driven by commerce, logistics, construction, and services. These sectors directly align with Dajcom’s product lines.
-
 Quarterly GDP moves up and down, but the average stays around **$17K**, which signals a stable base of economic activity.
 
 Foreign investment is accelerating **(FDI CAGR 500%)**, signaling global confidence in Panama’s regulatory environment and infrastructure. Economic activity is concentrated in**Panamá city,Panamá Oeste,chiriqui,and Colón** - ideal locations for Operation, distribution, warehousing, and import/export.
