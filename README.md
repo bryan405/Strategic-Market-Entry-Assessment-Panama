@@ -1,10 +1,10 @@
 ## 📚 Table of Contents
 
-1. [Project objectiv](#-Project-objective)
+1. [Project objective](#-Project-objective)
 2. [Executive Summary](#Executive--Summary)
 3. [Methodology & Data Cleaning](#Methodology-data--cleaning)  
 4. [Key Findings & Insights](#Key-Findings-&--Insights) 
-6. [Dashboard](#-dashboard)  
+6. [DashBoard](#-DashBoard)  
 7. [Recomendations](#Recomendations)  
 8.  [About Me](#-about-me)
 
@@ -95,7 +95,7 @@ A Multi‑Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017�
 - Tools:  Power BI, SQL, Excel
 - Data Sources: INEC Panama (FDI, GDP, GVA, Provincial GDP, Quarterly GDP
 ### Dataset Structure
-The dataset structure as seenbelow consist of FDI,GDP,GVA,Provincial,GDP by economic activities,partner countries with total row count of 93k records.
+The dataset structure as seen below consist of FDI,GDP,GVA,Provincial,GDP by economic activities,partner countries with total row count of 93k records.
   
   
 ![Click here for comprehensive details on the cleaning methodology](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Methodology%20%26%20Data%20cleaning1.pdf)
@@ -107,7 +107,7 @@ The dataset structure as seenbelow consist of FDI,GDP,GVA,Provincial,GDP by econ
 
 
 # [Key Finding & Insights](#Key-Findings-&--Insights)
-**A comeback story after 2020**
+**A comeback story after 2020 Pandemic**
 The annual GDP chart shows:
 
 - **2018–2019:** Stable growth
@@ -131,7 +131,7 @@ Quarterly growth swings between **–42% and +25%,** but the average stays aroun
 This means the economy moves with the global cycle, but the base remains strong.
 ![Quarter GDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Quarter%20GDP.png)
 ![Quarter Average GDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Quarter%20average.png)
-**What this means for Dajcom**
+**What this means for Dajcom Company**
 Panama is not slowing down.
 It is a **growing, stable market** where new brands can enter and scale safely.
 
@@ -255,7 +255,7 @@ From the Analysis:
 
 These numbers show a **healthy, expanding economy** with strong sector performance and high investor confidence.
 
-# [Dashboard](#-dashboard)
+# [DashBoard](#-DashBoard)
 ![Click here](<iframe title="power bi panama growth analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
  # [Recomendations](#Recomendations)
