@@ -96,7 +96,7 @@ A Multiâ€‘Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017â€
 - Data Sources: INEC Panama (FDI, GDP, GVA, Provincial GDP, Quarterly GDP
   ### Dataset Structure
   The dataset structure as seenbelow consist of FDI,GDP,GVA,Provincial with total row count of 93k records.
-![Click here for comprehensive details on the cleaning methodology]
+![Click here for comprehensive details on the cleaning methodology](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Methodology%20%26%20Data%20cleaning1.pdf)
 ![Click here to see query]
   
 ![ERD Diagram](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/ERD%20Diagram.png)
