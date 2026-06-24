@@ -1,4 +1,4 @@
-## 📚 Table of Contents
+# 📚 Table of Contents
 
 1. [Project objective](#-Project-objective)
 2. [Executive Summary](#Executive--Summary)
