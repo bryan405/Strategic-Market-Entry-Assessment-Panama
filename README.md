@@ -154,6 +154,7 @@ These sectors show both **high GDP contribution** and **steady growth**.
 **Transport: 7%**
 
 **Service activities: 7%**
+![growing sector](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Top%20sector%20contributing%20to%20gdp%20by%20cagr.png)
 
 **Why this matters for Dajcom**
 **Food & beverage:** Strong retail and commerce growth supports product distribution.
