@@ -220,6 +220,8 @@ Agricultural + commercial expansion zone
 
 This confirms Panama’s strong global connections.
 
+![GDP BY PARTNER COUNTRIES](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Gdp%20by%20partner%20country.png)
+
 **What this means for Dajcom**
 **Panamá City** - Best for headquarters and brand presence
 
