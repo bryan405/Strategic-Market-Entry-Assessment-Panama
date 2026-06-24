@@ -127,7 +127,7 @@ Panama is not slowing down.
 It is a **growing, stable market** where new brands can enter and scale safely.
 
 ### Sector Performance: Where the Real Growth Is Happening
-The sector dashboards highlight the engines of Panama’s economy.
+The sectoral Analysis highlight the engines of Panama’s economy.
 
 ### Top sectors by contribution (2018–2022)
 **Commerce**
@@ -141,6 +141,8 @@ The sector dashboards highlight the engines of Panama’s economy.
 **Service activities**
 
 These sectors show both **high GDP contribution** and **steady growth**.
+
+![SECTORGDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/key%20sector%20driving%20the%20economy.png)
 
 **Fastest‑growing sectors (long‑term CAGR)**
 **Exploitation: 16%**
