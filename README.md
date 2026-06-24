@@ -84,7 +84,7 @@ A Multiâ€‘Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017â€
 - Tools:  Power BI, SQL, Excel
 - Data Sources: INEC Panama (FDI, GDP, GVA, Provincial GDP, Quarterly GDP
   
-![ERD Diagram](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/ERD%20Diagram.pdf)
+![ERD Diagram](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/ERD%20Diagram.png)
 
 
  # [Executive Summary](#Executive--Summary)
