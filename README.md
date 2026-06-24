@@ -115,6 +115,8 @@ The annual GDP chart shows:
 
 GDP rose from **$47.5K** in **2020** to **$67.9K** in **2023.**
 
+![Annual GDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/Annual%20GDP.png)
+
 **Quarterly GDP shows movement but not weakness**
 Quarterly growth swings between **–42% and +25%,** but the average stays around **$17K.**
 This means the economy moves with the global cycle, but the base remains strong.
