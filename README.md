@@ -154,7 +154,7 @@ These sectors show both **high GDP contribution** and **steady growth**.
 ![SECTORGDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/key%20sector%20driving%20the%20economy.png)
 
 **Fastest‑growing sectors (long‑term CAGR)**
-**Exploitation: 16%**
+**Exploitation: 34%**
 
 **Construction: 11%**
 
