@@ -1,12 +1,12 @@
 # 📚 Table of Contents
 
-1. [Project objective](#-Project-objective)
+1. [project objective](#roject-objective)
 2. [executive summary](#executive-summary)
-3. [Methodology & Data Cleaning](#Methodology-data--cleaning)  
-4. [Key Findings & Insights](#Key-Findings-&--Insights) 
-6. [DashBoard](#-DashBoard)  
-7. [Recomendations](#Recomendations)  
-8. [About Me](#-about-me)
+3. [methodology & data cleaning](#methodology-data-cleaning)  
+4. [key findings & insights](#key-findings-&-insights) 
+6. [dashdoard](#dashboard)  
+7. [recomendations](#recomendations)  
+8. [about Me](#about-me)
 
 # [Project objective](#-Project-objective)
 
