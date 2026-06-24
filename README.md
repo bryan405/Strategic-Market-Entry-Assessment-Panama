@@ -258,7 +258,7 @@ From the Analysis:
 These numbers show a **healthy, expanding economy** with strong sector performance and high investor confidence.
 
 # [DashBoard](#-DashBoard)
-![Click here](https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9)
+![Click here](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/powerbi%20link.pdf)
 
  # [Recomendations](#Recomendations)
 ### Strategic Recommendations for Dajcom
