@@ -84,18 +84,18 @@ Build a focused, scalable market entry strategy
 GDP has recovered sharply post‑pandemic **(+18%, +12%, +8%)**, driven by commerce, logistics, construction, and services. These sectors directly align with Dajcom’s product lines.
 Quarterly GDP moves up and down, but the average stays around **$17K**, which signals a stable base of economic activity.
 
-Foreign investment is accelerating **(FDI CAGR 500%)**, signaling global confidence in Panama’s regulatory environment and infrastructure. Economic activity is concentrated in**Panamá city,Panamá Oeste,chiriqui,and Colón** - ideal locations for Operation, distribution, warehousing, and import/export.
+Foreign investment is accelerating **(FDI CAGR 500%)**, signaling global confidence in Panama’s regulatory environment and infrastructure. Economic activity is concentrated in **Panamá city,Panamá Oeste,chiriqui,and Colón** - ideal locations for Operation, distribution, warehousing, and import/export.
 
 **Recommendation:** Enter Panama in phases - start with distribution, build a regional logistics hub, and explore local manufacturing once demand scales. The data supports a **“Go”** decision for market entry.
 
 
- # [Methodology & Data Cleaning](#Methodology-data--cleaning)
+# [Methodology & Data Cleaning](#Methodology-data--cleaning)
 ## Panama Macroeconomic Data Cleaning Documentation
 A Multi‑Dataset ETL Pipeline for FDI, GDP, GVA & Provincial Indicators (2017–2023)
 - Tools:  Power BI, SQL, Excel
 - Data Sources: INEC Panama (FDI, GDP, GVA, Provincial GDP, Quarterly GDP
-  ### Dataset Structure
-  The dataset structure as seenbelow consist of FDI,GDP,GVA,Provincial,GDP by economic activities,partner countries with total row count of 93k records.
+### Dataset Structure
+The dataset structure as seenbelow consist of FDI,GDP,GVA,Provincial,GDP by economic activities,partner countries with total row count of 93k records.
   
   
 ![Click here for comprehensive details on the cleaning methodology](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Methodology%20%26%20Data%20cleaning1.pdf)
