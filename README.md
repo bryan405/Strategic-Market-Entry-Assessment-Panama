@@ -1,7 +1,7 @@
 # 📚 Table of Contents
 
 1. [Project objective](#-Project-objective)
-2. [Executive Summary](#Executive--Summary)
+2. [executive summary](#executive-summary)
 3. [Methodology & Data Cleaning](#Methodology-data--cleaning)  
 4. [Key Findings & Insights](#Key-Findings-&--Insights) 
 6. [DashBoard](#-DashBoard)  
