@@ -205,6 +205,7 @@ Fast‑growing industrial corridor
 - **Chiriquí - $25K GDP**  
 Agricultural + commercial expansion zone
 
+![MAP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/map.png)
 
 ### Top partner countries
 **United States: $78M**
