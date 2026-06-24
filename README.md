@@ -6,7 +6,7 @@
 4. [Key Findings & Insights](#Key-Findings-&--Insights) 
 6. [DashBoard](#-DashBoard)  
 7. [Recomendations](#Recomendations)  
-8.  [About Me](#-about-me)
+8. [About Me](#-about-me)
 
 # [Project objective](#-Project-objective)
 
@@ -106,7 +106,7 @@ The dataset structure as seen below consist of FDI,GDP,GVA,Provincial,GDP by eco
 ![ERD Diagram](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/ERD%20Diagram.png)
 
 
-# [Key Finding & Insights](#Key-Findings-&--Insights)
+#  [Key Findings & Insights](#Key-Findings-&--Insights) 
 **A comeback story after 2020 Pandemic**
 The annual GDP chart shows:
 
@@ -260,7 +260,7 @@ These numbers show a **healthy, expanding economy** with strong sector performan
 # [DashBoard](#-DashBoard)
 ![Click here](<iframe title="power bi panama growth analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWM5MjIxOGQtNGQ0Yi00MzEyLWI1YjEtNzU3ZjgxZTJjYzk4IiwidCI6IjVmNTY2NGU1LWYzNjktNDliYi1hZjRjLWU0YTVkMmRmNTRhNyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
- # [Recomendations](#Recomendations)
+# [Recomendations](#Recomendations)
 ### Strategic Recommendations for Dajcom
 **Enter in phases**
 **Phase 1: Import & distribution (0–12 months)**
