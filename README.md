@@ -133,6 +133,7 @@ This means the economy moves with the global cycle, but the base remains strong.
 ![Quarter Average GDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Quarter%20average.png)
 
 **What this means for Dajcom Company**
+
 Panama is not slowing down.
 It is a **growing, stable market** where new brands can enter and scale safely.
 
