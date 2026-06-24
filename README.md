@@ -131,6 +131,7 @@ Quarterly growth swings between **–42% and +25%,** but the average stays aroun
 This means the economy moves with the global cycle, but the base remains strong.
 ![Quarter GDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Quarter%20GDP.png)
 ![Quarter Average GDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Quarter%20average.png)
+
 **What this means for Dajcom Company**
 Panama is not slowing down.
 It is a **growing, stable market** where new brands can enter and scale safely.
@@ -166,7 +167,7 @@ These sectors show both **high GDP contribution** and **steady growth**.
 
 ![growing sector](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Top%20sector%20contributing%20to%20gdp%20by%20cagr.png)
 
-**Why this matters for Dajcom**
+**Why this matters for Dajcom company**
 **Food & beverage:** Strong retail and commerce growth supports product distribution.
 
 **Home appliances:** Construction growth means more homes and more demand for appliances.
