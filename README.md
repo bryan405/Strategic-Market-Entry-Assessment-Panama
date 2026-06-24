@@ -113,13 +113,14 @@ The annual GDP chart shows:
 
 - **+8% in 2023**
 
-GDP rose from **$47.5K** in **2020** to **$67.9K** in **2023.**
+GDP rose from **$48K** in **2020** to **$67.9K** in **2023.**
 
 ![Annual GDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/Annual%20GDP.png)
 
 **Quarterly GDP shows movement but not weakness**
 Quarterly growth swings between **–42% and +25%,** but the average stays around **$17K.**
 This means the economy moves with the global cycle, but the base remains strong.
+![Quarter GDP](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/Quarter%20GDP.png)
 
 **What this means for Dajcom**
 Panama is not slowing down.
