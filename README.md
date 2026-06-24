@@ -176,7 +176,7 @@ These sectors show both **high GDP contribution** and **steady growth**.
 **Manufacturing:** Food and beverage processing is growing — good for co‑packing or local production.
 
 ### Foreign Direct Investment: Where Global Companies Are Betting
-The FDI dashboard shows a very clear message:
+The FDI Analysis shows a very clear message:
 
 - **Total FDI (2017–2023): $403M**
 
