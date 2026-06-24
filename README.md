@@ -154,6 +154,7 @@ These sectors show both **high GDP contribution** and **steady growth**.
 **Transport: 7%**
 
 **Service activities: 7%**
+
 ![growing sector](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/Top%20sector%20contributing%20to%20gdp%20by%20cagr.png)
 
 **Why this matters for Dajcom**
@@ -188,6 +189,7 @@ FDI usually flows to sectors with:
 - Government support
 
 These are the same sectors Dajcom is targeting: **commerce, logistics, construction, and services**.
+![FDI](https://github.com/bryan405/Strategic-Market-Entry-Assessment-Panama/blob/main/my%20documents/FDI%20contribution.png)
 
 ### Regional Insights: Where Economic Activity Is Concentrated
 The provincial Analysis shows a strong concentration of GDP in a few key regions.
